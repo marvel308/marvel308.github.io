@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "node crawl.js"
+    },
+    "dependencies": {
+        "jsdom": "^16.4.0",
+        "node-fetch": "^2.6.0"
+    }
+}
