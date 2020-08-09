@@ -2,6 +2,8 @@ const fetch = require("node-fetch");
 const fs = require('fs');
 const jsdom = require("jsdom");
 
+const writeCriticalData = require('./critical.js')
+
 function getEvents(document, event) {
   result = []
   for (let div of document.getElementsByClassName(event)) {
@@ -77,12 +79,12 @@ async function fetchGame(arr) {
   let game_data = getMatchFacts(doc)
   let result = []
   for(let game of game_data.home) {
-    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[1]])
+    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[1]].join(','))
   }
   for(let game of game_data.away) {
-    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[2]])
+    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[2]].join(','))
   }
-  return result
+  return result.join('\n')
 }
 
 async function scrapeAllData(url) {
@@ -90,15 +92,16 @@ async function scrapeAllData(url) {
 	let doc = await fetchFromUrl(url)
 	for (let game of GetAllGames(doc)) {
  		let data =  await fetchGame(game)
- 		result.push(data.join(','))
+ 		result.push(data)
  	}
- 	return result.join('\n')
+ 	return result.filter(x => x).join('\n')
 }
 
 async function writeData() {
 	data = await scrapeAllData('/en/comps/9/schedule/Premier-League-Scores-and-Fixtures');
 	data = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team', data].join('\n')
 	fs.writeFile('data.csv', data, (err) => console.error(err))
+    writeCriticalData(data)
 }
 
 writeData()
