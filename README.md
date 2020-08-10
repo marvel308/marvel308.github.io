@@ -12,3 +12,6 @@ This repository has a data crawler which finds all goals scored by minute.
 
 ## To view data
 http://marvel308.github.io/
+
+## Data Source
+https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
