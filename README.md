@@ -1,3 +1,4 @@
+![Crawl Cron](https://github.com/marvel308/marvel308.github.io/workflows/Crawl%20Cron/badge.svg?event=schedule)
 # EPL statistics
 
 This repository has a data crawler which finds all goals scored by minute.
