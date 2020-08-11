@@ -55,6 +55,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-08-24,Watford,West Ham,3’,Mark Noble,Penalty Kick,West Ham
 2019-08-24,Watford,West Ham,64’,Sébastien Haller,Assist:Felipe Anderson,West Ham
 2019-08-24,Watford,West Ham,73’,Sébastien Haller,,West Ham
+2019-08-25,Bournemouth,Manchester City,15’,Sergio Agüero,Assist:Kevin De Bruyne,Manchester City
+2019-08-25,Bournemouth,Manchester City,43’,Raheem Sterling,Assist:David Silva,Manchester City
+2019-08-25,Bournemouth,Manchester City,64’,Sergio Agüero,Assist:David Silva,Manchester City
 2019-08-25,Tottenham,Newcastle Utd,27’,Joelinton,Assist:Christian Atsu,Newcastle Utd
 2019-08-25,Wolves,Burnley,13’,Ashley Barnes,Assist:Dwight McNeil,Burnley
 2019-08-25,Wolves,Burnley,90+7’,Raúl Jiménez,Penalty Kick,Wolves
@@ -377,6 +380,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-12-15,Wolves,Tottenham,67’,Adama Traoré,Assist:Raúl Jiménez,Wolves
 2019-12-15,Wolves,Tottenham,8’,Lucas Moura,Assist:Eric Dier,Tottenham
 2019-12-15,Wolves,Tottenham,90+1’,Jan Vertonghen,Assist:Christian Eriksen,Tottenham
+2019-12-16,Crystal Palace,Brighton,54’,Neal Maupay,Assist:Pascal Groß,Brighton
+2019-12-16,Crystal Palace,Brighton,76’,Wilfried Zaha,Assist:James Tomkins,Crystal Palace
 2019-12-21,Aston Villa,Southampton,21’,Danny Ings,,Southampton
 2019-12-21,Aston Villa,Southampton,31’,Jack Stephens,Assist:James Ward-Prowse,Southampton
 2019-12-21,Bournemouth,Burnley,89’,Jay Rodriguez,Assist:Ashley Westwood,Burnley
@@ -776,6 +781,12 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-07-17,West Ham,Watford,10’,Tomáš Souček,Assist:Jarrod Bowen,West Ham
 2020-07-17,West Ham,Watford,36’,Declan Rice,Assist:Mark Noble,West Ham
 2020-07-17,West Ham,Watford,6’,Michail Antonio,,West Ham
+2020-07-18,Norwich City,Burnley,45+5’,Chris Wood,Assist:Jóhann Berg Guðmundsson,Burnley
+2020-07-18,Norwich City,Burnley,80’,Ben Godfrey,Own Goal,Burnley
+2020-07-19,Bournemouth,Southampton,41’,Danny Ings,Assist:Nathan Redmond,Southampton
+2020-07-19,Bournemouth,Southampton,90+8’,Che Adams,Assist:Michael Obafemi,Southampton
+2020-07-19,Tottenham,Leicester City,37’,Harry Kane,Assist:Lucas Moura,Tottenham
+2020-07-19,Tottenham,Leicester City,40’,Harry Kane,Assist:Lucas Moura,Tottenham
 2020-07-20,Sheffield Utd,Everton,46’,Richarlison,Assist:Gylfi Sigurðsson,Everton
 2020-07-20,Wolves,Crystal Palace,41’,Daniel Podence,Assist:Matt Doherty,Wolves
 2020-07-20,Wolves,Crystal Palace,68’,Jonny Castro,,Wolves
