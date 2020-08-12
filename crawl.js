@@ -4,45 +4,67 @@ const jsdom = require('jsdom');
 
 const writeCriticalData = require('./critical.js');
 
+/**
+ * Gets match events.
+ * @param {Object} document - The DOM document object.
+ * @param {string} event - HTML class name.
+ * @return {Object[]} Gets all match events.
+ */
 function getEvents(document, event) {
   result = [];
   for (const div of document.getElementsByClassName(event)) {
     if (div.getElementsByClassName('event_icon own_goal').length > 0) {
       const time = div.children[0].textContent.trim().split('\n')[0];
-      const goal_scorer = div.children[1].children[1].children[0].textContent.trim();
-      const fact = div.children[1].children[1].children[1].textContent.split('\n').map((a) => a.trim()).reduce((a, b) => a + b);
-      result.push([time, goal_scorer, fact]);
+      const goalScorer = div.children[1].children[1].children[0]
+          .textContent.trim();
+      const fact = div.children[1].children[1].children[1].textContent
+          .split('\n').map((a) => a.trim()).reduce((a, b) => a + b);
+      result.push([time, goalScorer, fact]);
     }
 
     if (div.getElementsByClassName('event_icon goal').length > 0) {
       const time = div.children[0].textContent.trim().split('\n')[0];
-      const goal_scorer = div.children[1].children[1].children[0].textContent.trim();
+      const goalScorer = div.children[1].children[1].children[0]
+          .textContent.trim();
       let fact = '';
       if (div.children[1].children[1].children.length > 1) {
-        fact = div.children[1].children[1].children[1].textContent.split('\n').map((a) => a.trim()).reduce((a, b) => a + b);
+        fact = div.children[1].children[1].children[1].textContent.split('\n').
+            map((a) => a.trim()).reduce((a, b) => a + b);
       }
-      result.push([time, goal_scorer, fact]);
+      result.push([time, goalScorer, fact]);
     }
     if (div.getElementsByClassName('event_icon penalty_goal').length > 0) {
       const time = div.children[0].textContent.trim().split('\n')[0];
-      const goal_scorer = div.children[1].children[1].children[0].textContent.trim();
+      const goalScorer = div.children[1].children[1].children[0].
+          textContent.trim();
       let fact = '';
       if (div.children[1].children[1].children.length > 1) {
-        fact = div.children[1].children[1].children[1].textContent.split('\n').map((a) => a.trim()).reduce((a, b) => a + b);
+        fact = div.children[1].children[1].children[1].textContent.split('\n').
+            map((a) => a.trim()).reduce((a, b) => a + b);
       }
-      result.push([time, goal_scorer, fact]);
+      result.push([time, goalScorer, fact]);
     }
   }
   return result;
 }
 
+/**
+ * Gets facts about match.
+ * @param {Object} document - The DOM document object.
+ * @return {Object} Facts about home and away side.
+ */
 function getMatchFacts(document) {
   const home = getEvents(document, 'event a');
   const away = getEvents(document, 'event b');
   return {home: home, away: away};
 }
 
-function GetAllGames(document) {
+/**
+ * Fetches metadata for all matches.
+ * @param {Object} document - The DOM document object.
+ * @return {Object[]} All match metadata.
+ */
+function getAllGames(document) {
   const div = document.getElementById('sched_ks_3232_1');
   const hrefss = [];
   for (let i = 0; i< div.rows.length; i++) {
@@ -59,6 +81,11 @@ function GetAllGames(document) {
   return hrefss;
 }
 
+/**
+ * Scrapes data from url.
+ * @param {string} url - The url to crall from.
+ * @return {Object} DOM document object.
+ */
 async function fetchFromUrl(url) {
   url = 'https://fbref.com' + url;
   const result = await fetch(url).then(function(response) {
@@ -76,32 +103,47 @@ async function fetchFromUrl(url) {
   return result;
 }
 
+/**
+ * Gets game data.
+ * @param {Object[]} arr - The game metadata.
+ * @return {string} Game data.
+ */
 async function fetchGame(arr) {
   const doc = await fetchFromUrl(arr[3]);
-  const game_data = getMatchFacts(doc);
+  const gameData = getMatchFacts(doc);
   const result = [];
-  for (const game of game_data.home) {
-    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[1]].join(','));
+  for (const game of gameData.home) {
+    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[1]]
+        .join(','));
   }
-  for (const game of game_data.away) {
-    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[2]].join(','));
+  for (const game of gameData.away) {
+    result.push([arr[0], arr[1], arr[2], game[0], game[1], game[2], arr[2]]
+        .join(','));
   }
   return result.join('\n');
 }
 
+/**
+ * Scrapes data from url.
+ * @param {string} url - The url to crall from.
+ * @return {string} Goals data.
+ */
 async function scrapeAllData(url) {
   const result = [];
   const doc = await fetchFromUrl(url);
-  for (const game of GetAllGames(doc)) {
- 		const data = await fetchGame(game);
- 		result.push(data);
- 	}
- 	return result.filter((x) => x).join('\n');
+  for (const game of getAllGames(doc)) {
+    const data = await fetchGame(game);
+    result.push(data);
+  }
+  return result.filter((x) => x).join('\n');
 }
 
+/** Writes raw and critical data. */
 async function writeData() {
-  data = await scrapeAllData('/en/comps/9/schedule/Premier-League-Scores-and-Fixtures');
-  data = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team', data].join('\n');
+  data = await scrapeAllData(
+      '/en/comps/9/schedule/Premier-League-Scores-and-Fixtures');
+  data = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team',
+    data].join('\n');
   fs.writeFile('data.csv', data, (err) => console.error(err));
   writeCriticalData(data);
 }

@@ -1,6 +1,11 @@
 const fs = require('fs');
 
-
+/**
+ * Sorts data by minutes scored.
+ * @param {Object[]} a - The first point.
+ * @param {Object[]} b - The second point.
+ * @return {number}
+ */
 function compare(a, b) {
   if (a[3] < b[3]) {
     return -1;
@@ -12,7 +17,12 @@ function compare(a, b) {
   return 0;
 }
 
-
+/**
+ * Sorts data by date.
+ * @param {Object[]} a - The first point.
+ * @param {Object[]} b - The second point.
+ * @return {number}
+ */
 function compare2(a, b) {
   if (a[0] < b[0]) {
     return -1;
@@ -30,37 +40,15 @@ function compare2(a, b) {
   return 0;
 }
 
-
-function insertIntoMap(map, value) {
-  // value = value.replace(/"/g, '')
-  if (map.has(value)) {
-    map.set(value, map.get(value) + 1);
-  } else {
-    map.set(value, 1);
-  }
-}
-
-function GetDataFromMap(map, map2) {
-  const result = [];
-  for (const [key, value] of map) {
-    result.push([value, map2.get(key), key]);
-  }
-  result.sort((a, b) => {
-    if (parseInt(a[0]) < parseInt(b[0])) {
-      return -1;
-    }
-    if (parseInt(a[0]) > parseInt(b[0])) {
-      return 1;
-    }
-    return 0;
-  });
-  return result.reverse().map((a) => a.join(',')).join('\n');
-}
-
+/**
+ * Gets critical goals data from raw data.
+ * @param {Object[]} data - The raw data.
+ * @return {string} Critical goals data.
+ */
 function getCriticalData(data) {
   const m = new Map();
 
-  const critical_goals = [];
+  const criticalGoals = [];
 
   data.forEach((a) => {
     const key = a[1] + '-' + a[2];
@@ -78,25 +66,30 @@ function getCriticalData(data) {
     }
     if (a[1] == a[6]) {
       if (m.get(key) >=0 && m.get(key) <=2) {
-        critical_goals.push(a);
+        criticalGoals.push(a);
       }
     } else if (a[2] == a[6]) {
       if (m.get(key) <=0 && m.get(key) >=-2) {
-        critical_goals.push(a);
+        criticalGoals.push(a);
       }
     }
   });
-  critical_goals.sort(compare2);
-  return critical_goals.map((x) => x.join(',')).join('\n');
+  criticalGoals.sort(compare2);
+  return criticalGoals.map((x) => x.join(',')).join('\n');
 }
 
+/**
+ * Writes data into critical_data.csv.
+ * @param {string} data - The raw data.
+ */
 async function writeCriticalData(data) {
   data = data.split('\n');
   data = data.map((a) => a.split(','));
   data.sort(compare);
-  const critical_goals = getCriticalData(data);
-  const critical_data = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team', critical_goals].join('\n');
-  fs.writeFile('critical_data.csv', critical_data, (err) => console.error(err));
+  const criticalGoals = getCriticalData(data);
+  const criticalData = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team',
+    criticalGoals].join('\n');
+  fs.writeFile('critical_data.csv', criticalData, (err) => console.error(err));
 }
 
 module.exports = writeCriticalData;
