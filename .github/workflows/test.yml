@@ -1,0 +1,15 @@
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Check Tests
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: testomatio/check-tests@stable
+      with:
+        framework: jasmine
+        tests: "spec/spec/*.js"
+        token: ${{ secrets.GITHUB_TOKEN }}
