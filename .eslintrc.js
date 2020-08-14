@@ -11,5 +11,10 @@ module.exports = {
     'ecmaVersion': 11,
   },
   'rules': {
+    'max-len': [2, 120, {
+      'ignoreStrings': true,
+      'ignoreTemplateLiterals': true,
+      'ignoreComments': true,
+    }],
   },
 };

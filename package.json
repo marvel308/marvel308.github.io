@@ -1,14 +1,16 @@
 {
     "scripts": {
-        "start": "node crawl.js"
+        "start": "node src/main.js"
     },
     "dependencies": {
+        "fetch-mock": "^9.10.6",
         "jsdom": "^16.4.0",
         "node-fetch": "^2.6.0"
     },
     "devDependencies": {
         "eslint": "^7.6.0",
         "eslint-config-google": "^0.14.0",
-        "eslint-plugin-react": "^7.20.5"
+        "eslint-plugin-react": "^7.20.5",
+        "jasmine": "^3.6.1"
     }
 }
