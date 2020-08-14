@@ -1,6 +1,6 @@
 ![Cron](https://github.com/marvel308/marvel308.github.io/workflows/Crawl%20Cron/badge.svg?event=schedule)
 ![Lint](https://github.com/marvel308/marvel308.github.io/workflows/Lint/badge.svg)
-![Tests](https://github.com/marvel308/marvel308.github.io/workflows/.github/workflows/test.yml/badge.svg)
+![Tests](https://github.com/marvel308/marvel308.github.io/workflows/Tests/badge.svg)
 
 # EPL statistics
 
