@@ -3,7 +3,9 @@
         "start": "node src/main.js"
     },
     "dependencies": {
+        "es6-promise": "^4.2.8",
         "fetch-mock": "^9.10.6",
+        "isomorphic-fetch": "^2.2.1",
         "jsdom": "^16.4.0",
         "node-fetch": "^2.6.0"
     },

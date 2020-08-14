@@ -1,4 +1,4 @@
-require('node-fetch');
+require('isomorphic-fetch');
 const fs = require('fs');
 const jsdom = require('jsdom');
 
@@ -144,7 +144,7 @@ async function writeData() {
       '/en/comps/9/schedule/Premier-League-Scores-and-Fixtures');
   data = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team',
     data].join('\n');
-  await fs.writeFile('data.csv', data);
+  await fs.writeFile('data.csv', data, (err) => console.error(err));
   return writeCriticalData(data);
 }
 

@@ -89,7 +89,7 @@ async function writeCriticalData(data) {
   const criticalGoals = getCriticalData(data);
   const criticalData = ['Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team',
     criticalGoals].join('\n');
-  await fs.writeFile('critical_data.csv', criticalData);
+  await fs.writeFile('critical_data.csv', criticalData, (err) => console.error(err));
 }
 
 module.exports = writeCriticalData;
