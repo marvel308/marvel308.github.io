@@ -34,7 +34,7 @@ jobs:
       run: npm install
 
     - name: Moving build to artifacts directory
-      run: node crawl.js
+      run: node src/main.js
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Run crawler
