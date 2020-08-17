@@ -83,17 +83,17 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-08-25,Wolves,Burnley,13’,Ashley Barnes,Assist:Dwight McNeil,Burnley
 2019-08-31,Southampton,Manchester Utd,58’,Jannik Vestergaard,Assist:Kevin Danso,Southampton
 2019-08-31,Southampton,Manchester Utd,10’,Daniel James,Assist:Scott McTominay,Manchester Utd
+2019-08-31,West Ham,Norwich City,24’,Sébastien Haller,Assist:Arthur Masuaku,West Ham
+2019-08-31,West Ham,Norwich City,56’,Andriy Yarmolenko,,West Ham
+2019-08-31,Crystal Palace,Aston Villa,73’,Jordan Ayew,,Crystal Palace
 2019-08-31,Leicester City,Bournemouth,12’,Jamie Vardy,Assist:Ben Chilwell,Leicester City
 2019-08-31,Leicester City,Bournemouth,41’,Youri Tielemans,Assist:Jamie Vardy,Leicester City
 2019-08-31,Leicester City,Bournemouth,73’,Jamie Vardy,Assist:Youri Tielemans,Leicester City
 2019-08-31,Leicester City,Bournemouth,15’,Callum Wilson,Assist:Ryan Fraser,Bournemouth
-2019-08-31,West Ham,Norwich City,24’,Sébastien Haller,Assist:Arthur Masuaku,West Ham
-2019-08-31,West Ham,Norwich City,56’,Andriy Yarmolenko,,West Ham
 2019-08-31,Chelsea,Sheffield Utd,19’,Tammy Abraham,,Chelsea
 2019-08-31,Chelsea,Sheffield Utd,43’,Tammy Abraham,,Chelsea
 2019-08-31,Chelsea,Sheffield Utd,46’,Callum Robinson,Assist:Enda Stevens,Sheffield Utd
 2019-08-31,Chelsea,Sheffield Utd,89’,Kurt Zouma,Own Goal,Sheffield Utd
-2019-08-31,Crystal Palace,Aston Villa,73’,Jordan Ayew,,Crystal Palace
 2019-08-31,Newcastle Utd,Watford,41’,Fabian Schär,Assist:Isaac Hayden,Newcastle Utd
 2019-08-31,Newcastle Utd,Watford,2’,Will Hughes,,Watford
 2019-08-31,Manchester City,Brighton,2’,Kevin De Bruyne,Assist:David Silva,Manchester City
@@ -167,21 +167,21 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-09-22,West Ham,Manchester Utd,84’,Aaron Cresswell,,West Ham
 2019-09-22,Crystal Palace,Wolves,46’,Leander Dendoncker,Own Goal,Crystal Palace
 2019-09-22,Crystal Palace,Wolves,90+5’,Diogo Jota,Assist:Adama Traoré,Wolves
+2019-09-22,Chelsea,Liverpool,71’,N'Golo Kanté,Assist:César Azpilicueta,Chelsea
+2019-09-22,Chelsea,Liverpool,14’,Trent Alexander-Arnold,Assist:Mohamed Salah,Liverpool
+2019-09-22,Chelsea,Liverpool,30’,Roberto Firmino,Assist:Andrew Robertson,Liverpool
 2019-09-22,Arsenal,Aston Villa,59’,Nicolas Pépé,Penalty Kick,Arsenal
 2019-09-22,Arsenal,Aston Villa,81’,Calum Chambers,,Arsenal
 2019-09-22,Arsenal,Aston Villa,84’,Pierre-Emerick Aubameyang,,Arsenal
 2019-09-22,Arsenal,Aston Villa,20’,John McGinn,Assist:Anwar El Ghazi,Aston Villa
 2019-09-22,Arsenal,Aston Villa,60’,Wesley Moraes,Assist:Jack Grealish,Aston Villa
-2019-09-22,Chelsea,Liverpool,71’,N'Golo Kanté,Assist:César Azpilicueta,Chelsea
-2019-09-22,Chelsea,Liverpool,14’,Trent Alexander-Arnold,Assist:Mohamed Salah,Liverpool
-2019-09-22,Chelsea,Liverpool,30’,Roberto Firmino,Assist:Andrew Robertson,Liverpool
 2019-09-28,Sheffield Utd,Liverpool,70’,Georginio Wijnaldum,,Liverpool
+2019-09-28,Crystal Palace,Norwich City,21’,Luka Milivojević,Penalty Kick,Crystal Palace
+2019-09-28,Crystal Palace,Norwich City,90+2’,Andros Townsend,Assist:Wilfried Zaha,Crystal Palace
 2019-09-28,Aston Villa,Burnley,33’,Anwar El Ghazi,Assist:Frederic Guilbert,Aston Villa
 2019-09-28,Aston Villa,Burnley,79’,John McGinn,Assist:Trézéguet,Aston Villa
 2019-09-28,Aston Villa,Burnley,68’,Jay Rodriguez,Assist:Erik Pieters,Burnley
 2019-09-28,Aston Villa,Burnley,81’,Chris Wood,Assist:Matthew Lowton,Burnley
-2019-09-28,Crystal Palace,Norwich City,21’,Luka Milivojević,Penalty Kick,Crystal Palace
-2019-09-28,Crystal Palace,Norwich City,90+2’,Andros Townsend,Assist:Wilfried Zaha,Crystal Palace
 2019-09-28,Wolves,Watford,18’,Matt Doherty,Assist:Pedro Neto,Wolves
 2019-09-28,Wolves,Watford,61’,Daryl Janmaat,Own Goal,Wolves
 2019-09-28,Tottenham,Southampton,24’,Tanguy Ndombele,Assist:Son Heung-min,Tottenham
@@ -207,13 +207,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-10-05,Brighton,Tottenham,3’,Neal Maupay,,Brighton
 2019-10-05,Brighton,Tottenham,32’,Aaron Connolly,,Brighton
 2019-10-05,Brighton,Tottenham,65’,Aaron Connolly,Assist:Lewis Dunk,Brighton
+2019-10-05,Burnley,Everton,72’,Jeff Hendrick,Assist:Ashley Westwood,Burnley
 2019-10-05,Norwich City,Aston Villa,87’,Josip Drmić,,Norwich City
 2019-10-05,Norwich City,Aston Villa,14’,Wesley Moraes,Assist:Anwar El Ghazi,Aston Villa
 2019-10-05,Norwich City,Aston Villa,30’,Wesley Moraes,Assist:Conor Hourihane,Aston Villa
 2019-10-05,Norwich City,Aston Villa,49’,Jack Grealish,Assist:Anwar El Ghazi,Aston Villa
 2019-10-05,Norwich City,Aston Villa,61’,Conor Hourihane,Assist:Matt Targett,Aston Villa
 2019-10-05,Norwich City,Aston Villa,83’,Douglas Luiz,Assist:Wesley Moraes,Aston Villa
-2019-10-05,Burnley,Everton,72’,Jeff Hendrick,Assist:Ashley Westwood,Burnley
 2019-10-05,Liverpool,Leicester City,40’,Sadio Mané,Assist:James Milner,Liverpool
 2019-10-05,Liverpool,Leicester City,90+5’,James Milner,Penalty Kick,Liverpool
 2019-10-05,Liverpool,Leicester City,80’,James Maddison,Assist:Ayoze Pérez,Leicester City
@@ -454,12 +454,12 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-12-08,Aston Villa,Leicester City,41’,Kelechi Iheanacho,,Leicester City
 2019-12-08,Aston Villa,Leicester City,49’,Jonny Evans,Assist:James Maddison,Leicester City
 2019-12-08,Aston Villa,Leicester City,75’,Jamie Vardy,Assist:Dennis Praet,Leicester City
-2019-12-08,Newcastle Utd,Southampton,68’,Jonjo Shelvey,Assist:Andy Carroll,Newcastle Utd
-2019-12-08,Newcastle Utd,Southampton,87’,Federico Fernández,,Newcastle Utd
-2019-12-08,Newcastle Utd,Southampton,52’,Danny Ings,Assist:Jack Stephens,Southampton
 2019-12-08,Norwich City,Sheffield Utd,27’,Alexander Tettey,Assist:Christoph Zimmermann,Norwich City
 2019-12-08,Norwich City,Sheffield Utd,49’,Enda Stevens,Assist:George Baldock,Sheffield Utd
 2019-12-08,Norwich City,Sheffield Utd,52’,George Baldock,,Sheffield Utd
+2019-12-08,Newcastle Utd,Southampton,68’,Jonjo Shelvey,Assist:Andy Carroll,Newcastle Utd
+2019-12-08,Newcastle Utd,Southampton,87’,Federico Fernández,,Newcastle Utd
+2019-12-08,Newcastle Utd,Southampton,52’,Danny Ings,Assist:Jack Stephens,Southampton
 2019-12-08,Brighton,Wolves,34’,Neal Maupay,Assist:Dale Stephens,Brighton
 2019-12-08,Brighton,Wolves,36’,Davy Pröpper,Assist:Leandro Trossard,Brighton
 2019-12-08,Brighton,Wolves,28’,Diogo Jota,Assist:Raúl Jiménez,Wolves
@@ -471,10 +471,10 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-12-14,Liverpool,Watford,38’,Mohamed Salah,Assist:Sadio Mané,Liverpool
 2019-12-14,Liverpool,Watford,90’,Mohamed Salah,Assist:Divock Origi,Liverpool
 2019-12-14,Chelsea,Bournemouth,84’,Dan Gosling,Assist:Jefferson Lerma,Bournemouth
-2019-12-14,Sheffield Utd,Aston Villa,50’,John Fleck,Assist:John Lundstram,Sheffield Utd
-2019-12-14,Sheffield Utd,Aston Villa,73’,John Fleck,Assist:David McGoldrick,Sheffield Utd
 2019-12-14,Leicester City,Norwich City,38’,Tim Krul,Own Goal,Leicester City
 2019-12-14,Leicester City,Norwich City,26’,Teemu Pukki,Assist:Emi Buendía,Norwich City
+2019-12-14,Sheffield Utd,Aston Villa,50’,John Fleck,Assist:John Lundstram,Sheffield Utd
+2019-12-14,Sheffield Utd,Aston Villa,73’,John Fleck,Assist:David McGoldrick,Sheffield Utd
 2019-12-14,Burnley,Newcastle Utd,58’,Chris Wood,Assist:Ashley Westwood,Burnley
 2019-12-14,Southampton,West Ham,37’,Sébastien Haller,Assist:Pablo Fornals,West Ham
 2019-12-15,Wolves,Tottenham,67’,Adama Traoré,Assist:Raúl Jiménez,Wolves
@@ -543,13 +543,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-12-28,Newcastle Utd,Everton,64’,Dominic Calvert-Lewin,Assist:Richarlison,Everton
 2019-12-28,Southampton,Crystal Palace,74’,Danny Ings,,Southampton
 2019-12-28,Southampton,Crystal Palace,50’,James Tomkins,Assist:Luka Milivojević,Crystal Palace
-2019-12-28,West Ham,Leicester City,45’,Pablo Fornals,Assist:Felipe Anderson,West Ham
-2019-12-28,West Ham,Leicester City,40’,Kelechi Iheanacho,Assist:Ayoze Pérez,Leicester City
-2019-12-28,West Ham,Leicester City,56’,Demarai Gray,Assist:Ayoze Pérez,Leicester City
 2019-12-28,Norwich City,Tottenham,18’,Mario Vrančić,Assist:Emi Buendía,Norwich City
 2019-12-28,Norwich City,Tottenham,61’,Serge Aurier,Own Goal,Norwich City
 2019-12-28,Norwich City,Tottenham,55’,Christian Eriksen,,Tottenham
 2019-12-28,Norwich City,Tottenham,83’,Harry Kane,Penalty Kick,Tottenham
+2019-12-28,West Ham,Leicester City,45’,Pablo Fornals,Assist:Felipe Anderson,West Ham
+2019-12-28,West Ham,Leicester City,40’,Kelechi Iheanacho,Assist:Ayoze Pérez,Leicester City
+2019-12-28,West Ham,Leicester City,56’,Demarai Gray,Assist:Ayoze Pérez,Leicester City
 2019-12-28,Burnley,Manchester Utd,44’,Anthony Martial,Assist:Andreas Pereira,Manchester Utd
 2019-12-28,Burnley,Manchester Utd,90+5’,Marcus Rashford,Assist:Daniel James,Manchester Utd
 2019-12-29,Arsenal,Chelsea,13’,Pierre-Emerick Aubameyang,Assist:Calum Chambers,Arsenal
@@ -566,10 +566,10 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-01-01,Watford,Wolves,30’,Gerard Deulofeu,Assist:Ismaila Sarr,Watford
 2020-01-01,Watford,Wolves,49’,Abdoulaye Doucouré,Assist:Gerard Deulofeu,Watford
 2020-01-01,Watford,Wolves,60’,Pedro Neto,Assist:João Moutinho,Wolves
-2020-01-01,Southampton,Tottenham,17’,Danny Ings,Assist:Jack Stephens,Southampton
 2020-01-01,Newcastle Utd,Leicester City,36’,Ayoze Pérez,,Leicester City
 2020-01-01,Newcastle Utd,Leicester City,39’,James Maddison,Assist:Ayoze Pérez,Leicester City
 2020-01-01,Newcastle Utd,Leicester City,87’,Hamza Choudhury,Assist:Wilfred Ndidi,Leicester City
+2020-01-01,Southampton,Tottenham,17’,Danny Ings,Assist:Jack Stephens,Southampton
 2020-01-01,West Ham,Bournemouth,17’,Mark Noble,Assist:Robert Snodgrass,West Ham
 2020-01-01,West Ham,Bournemouth,25’,Sébastien Haller,Assist:Ryan Fredericks,West Ham
 2020-01-01,West Ham,Bournemouth,35’,Mark Noble,Penalty Kick,West Ham
@@ -618,15 +618,14 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-01-18,Manchester City,Crystal Palace,90’,Fernandinho,Own Goal,Crystal Palace
 2020-01-18,West Ham,Everton,40’,Issa Diop,Assist:Robert Snodgrass,West Ham
 2020-01-18,West Ham,Everton,44’,Dominic Calvert-Lewin,Assist:Mason Holgate,Everton
+2020-01-18,Norwich City,Bournemouth,33’,Teemu Pukki,Penalty Kick,Norwich City
 2020-01-18,Southampton,Wolves,15’,Jan Bednarek,,Southampton
 2020-01-18,Southampton,Wolves,35’,Shane Long,Assist:Cédric Soares,Southampton
 2020-01-18,Southampton,Wolves,53’,Pedro Neto,Assist:Adama Traoré,Wolves
 2020-01-18,Southampton,Wolves,65’,Raúl Jiménez,Penalty Kick,Wolves
 2020-01-18,Southampton,Wolves,76’,Raúl Jiménez,Assist:Adama Traoré,Wolves
-2020-01-18,Norwich City,Bournemouth,33’,Teemu Pukki,Penalty Kick,Norwich City
 2020-01-18,Arsenal,Sheffield Utd,45’,Martinelli,,Arsenal
 2020-01-18,Arsenal,Sheffield Utd,83’,John Fleck,,Sheffield Utd
-2020-01-18,Newcastle Utd,Chelsea,90+4’,Isaac Hayden,Assist:Allan Saint-Maximin,Newcastle Utd
 2020-01-19,Burnley,Leicester City,56’,Chris Wood,,Burnley
 2020-01-19,Burnley,Leicester City,79’,Ashley Westwood,,Burnley
 2020-01-19,Burnley,Leicester City,33’,Harvey Barnes,Assist:Dennis Praet,Leicester City
@@ -768,150 +767,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-03-07,Liverpool,Bournemouth,33’,Sadio Mané,Assist:Virgil van Dijk,Liverpool
 2020-03-07,Liverpool,Bournemouth,9’,Callum Wilson,Assist:Jefferson Lerma,Bournemouth
 2020-03-07,Sheffield Utd,Norwich City,36’,Billy Sharp,Assist:John Lundstram,Sheffield Utd
-2020-03-07,Arsenal,West Ham,78’,Alexandre Lacazette,Assist:Mesut Özil,Arsenal
-2020-03-07,Southampton,Newcastle Utd,79’,Allan Saint-Maximin,,Newcastle Utd
-2020-03-07,Crystal Palace,Watford,28’,Jordan Ayew,Assist:James McArthur,Crystal Palace
-2020-03-07,Burnley,Tottenham,13’,Chris Wood,,Burnley
-2020-03-07,Burnley,Tottenham,50’,Dele Alli,Penalty Kick,Tottenham
-2020-03-08,Chelsea,Everton,14’,Mason Mount,Assist:Pedro,Chelsea
-2020-03-08,Chelsea,Everton,21’,Pedro,Assist:Ross Barkley,Chelsea
-2020-03-08,Chelsea,Everton,51’,Willian,Assist:Ross Barkley,Chelsea
-2020-03-08,Chelsea,Everton,54’,Olivier Giroud,Assist:Willian,Chelsea
-2020-03-08,Manchester Utd,Manchester City,30’,Anthony Martial,Assist:Bruno Fernandes,Manchester Utd
-2020-03-08,Manchester Utd,Manchester City,90+6’,Scott McTominay,,Manchester Utd
 2020-03-09,Leicester City,Aston Villa,40’,Harvey Barnes,Assist:Marc Albrighton,Leicester City
 2020-03-09,Leicester City,Aston Villa,63’,Jamie Vardy,Penalty Kick,Leicester City
 2020-03-09,Leicester City,Aston Villa,79’,Jamie Vardy,,Leicester City
 2020-03-09,Leicester City,Aston Villa,85’,Harvey Barnes,Assist:Marc Albrighton,Leicester City
-2020-06-17,Manchester City,Arsenal,45+2’,Raheem Sterling,,Manchester City
-2020-06-17,Manchester City,Arsenal,51’,Kevin De Bruyne,Penalty Kick,Manchester City
-2020-06-17,Manchester City,Arsenal,90+1’,Phil Foden,,Manchester City
-2020-06-19,Norwich City,Southampton,49’,Danny Ings,Assist:Stuart Armstrong,Southampton
-2020-06-19,Norwich City,Southampton,54’,Stuart Armstrong,Assist:Danny Ings,Southampton
-2020-06-19,Norwich City,Southampton,79’,Nathan Redmond,Assist:Michael Obafemi,Southampton
-2020-06-19,Tottenham,Manchester Utd,27’,Steven Bergwijn,Assist:Serge Aurier,Tottenham
-2020-06-19,Tottenham,Manchester Utd,81’,Bruno Fernandes,Penalty Kick,Manchester Utd
-2020-06-20,Watford,Leicester City,90+3’,Craig Dawson,Assist:Christian Kabasele,Watford
-2020-06-20,Watford,Leicester City,90’,Ben Chilwell,Assist:Demarai Gray,Leicester City
-2020-06-20,Brighton,Arsenal,75’,Lewis Dunk,,Brighton
-2020-06-20,Brighton,Arsenal,90+5’,Neal Maupay,Assist:Aaron Connolly,Brighton
-2020-06-20,Brighton,Arsenal,68’,Nicolas Pépé,Assist:Bukayo Saka,Arsenal
-2020-06-20,West Ham,Wolves,73’,Raúl Jiménez,Assist:Adama Traoré,Wolves
-2020-06-20,West Ham,Wolves,84’,Pedro Neto,Assist:Matt Doherty,Wolves
-2020-06-20,Bournemouth,Crystal Palace,12’,Luka Milivojević,,Crystal Palace
-2020-06-20,Bournemouth,Crystal Palace,23’,Jordan Ayew,Assist:Patrick van Aanholt,Crystal Palace
-2020-06-21,Newcastle Utd,Sheffield Utd,55’,Allan Saint-Maximin,Assist:Matt Ritchie,Newcastle Utd
-2020-06-21,Newcastle Utd,Sheffield Utd,69’,Matt Ritchie,Assist:Isaac Hayden,Newcastle Utd
-2020-06-21,Newcastle Utd,Sheffield Utd,78’,Joelinton,Assist:Miguel Almirón,Newcastle Utd
-2020-06-21,Aston Villa,Chelsea,43’,Kortney Hause,,Aston Villa
-2020-06-21,Aston Villa,Chelsea,60’,Christian Pulisic,Assist:César Azpilicueta,Chelsea
-2020-06-21,Aston Villa,Chelsea,62’,Olivier Giroud,Assist:César Azpilicueta,Chelsea
-2020-06-22,Manchester City,Burnley,22’,Phil Foden,Assist:Bernardo Silva,Manchester City
-2020-06-22,Manchester City,Burnley,43’,Riyad Mahrez,Assist:Fernandinho,Manchester City
-2020-06-22,Manchester City,Burnley,45+3’,Riyad Mahrez,Penalty Kick,Manchester City
-2020-06-22,Manchester City,Burnley,51’,David Silva,Assist:Bernardo Silva,Manchester City
-2020-06-22,Manchester City,Burnley,63’,Phil Foden,Assist:Gabriel Jesus,Manchester City
-2020-06-23,Tottenham,West Ham,64’,Tomáš Souček,Own Goal,Tottenham
-2020-06-23,Tottenham,West Ham,82’,Harry Kane,Assist:Son Heung-min,Tottenham
-2020-06-24,Manchester Utd,Sheffield Utd,7’,Anthony Martial,Assist:Marcus Rashford,Manchester Utd
-2020-06-24,Manchester Utd,Sheffield Utd,44’,Anthony Martial,Assist:Aaron Wan-Bissaka,Manchester Utd
-2020-06-24,Manchester Utd,Sheffield Utd,74’,Anthony Martial,Assist:Marcus Rashford,Manchester Utd
-2020-06-24,Newcastle Utd,Aston Villa,68’,Dwight Gayle,Assist:Andy Carroll,Newcastle Utd
-2020-06-24,Newcastle Utd,Aston Villa,83’,Ahmed Elmohamady,Assist:Conor Hourihane,Aston Villa
-2020-06-24,Norwich City,Everton,55’,Michael Keane,Assist:Lucas Digne,Everton
-2020-06-24,Liverpool,Crystal Palace,23’,Trent Alexander-Arnold,,Liverpool
-2020-06-24,Liverpool,Crystal Palace,44’,Mohamed Salah,Assist:Fabinho,Liverpool
-2020-06-24,Liverpool,Crystal Palace,55’,Fabinho,Assist:Andrew Robertson,Liverpool
-2020-06-24,Liverpool,Crystal Palace,69’,Sadio Mané,Assist:Mohamed Salah,Liverpool
-2020-06-25,Southampton,Arsenal,20’,Eddie Nketiah,,Arsenal
-2020-06-25,Southampton,Arsenal,86’,Joe Willock,,Arsenal
-2020-06-25,Burnley,Watford,73’,Jay Rodriguez,Assist:Dwight McNeil,Burnley
-2020-06-27,Aston Villa,Wolves,62’,Leander Dendoncker,Assist:Jonny Castro,Wolves
-2020-06-29,Crystal Palace,Burnley,62’,Ben Mee,Assist:Ashley Westwood,Burnley
-2020-07-01,West Ham,Chelsea,45+2’,Tomáš Souček,Assist:Jarrod Bowen,West Ham
-2020-07-01,West Ham,Chelsea,51’,Michail Antonio,Assist:Jarrod Bowen,West Ham
-2020-07-01,West Ham,Chelsea,89’,Andriy Yarmolenko,Assist:Michail Antonio,West Ham
-2020-07-01,West Ham,Chelsea,42’,Willian,Penalty Kick,Chelsea
-2020-07-01,West Ham,Chelsea,72’,Willian,,Chelsea
-2020-07-05,Burnley,Sheffield Utd,43’,James Tarkowski,Assist:Jay Rodriguez,Burnley
-2020-07-05,Burnley,Sheffield Utd,80’,John Egan,Assist:Billy Sharp,Sheffield Utd
-2020-07-15,Manchester City,Bournemouth,6’,David Silva,,Manchester City
-2020-07-15,Manchester City,Bournemouth,39’,Gabriel Jesus,Assist:David Silva,Manchester City
-2020-07-15,Manchester City,Bournemouth,88’,David Brooks,Assist:Callum Wilson,Bournemouth
-2020-07-15,Newcastle Utd,Tottenham,56’,Matt Ritchie,,Newcastle Utd
-2020-07-15,Newcastle Utd,Tottenham,27’,Son Heung-min,Assist:Giovani Lo Celso,Tottenham
-2020-07-15,Newcastle Utd,Tottenham,60’,Harry Kane,Assist:Steven Bergwijn,Tottenham
-2020-07-15,Newcastle Utd,Tottenham,90’,Harry Kane,,Tottenham
-2020-07-15,Arsenal,Liverpool,32’,Alexandre Lacazette,,Arsenal
-2020-07-15,Arsenal,Liverpool,44’,Reiss Nelson,Assist:Alexandre Lacazette,Arsenal
-2020-07-15,Arsenal,Liverpool,20’,Sadio Mané,Assist:Andrew Robertson,Liverpool
-2020-07-16,Leicester City,Sheffield Utd,29’,Ayoze Pérez,Assist:Luke Thomas,Leicester City
-2020-07-16,Leicester City,Sheffield Utd,79’,Demarai Gray,Assist:Jamie Vardy,Leicester City
-2020-07-16,Everton,Aston Villa,87’,Theo Walcott,Assist:André Gomes,Everton
-2020-07-16,Everton,Aston Villa,72’,Ezri Konsa,Assist:Conor Hourihane,Aston Villa
-2020-07-16,Southampton,Brighton,66’,Danny Ings,Assist:Nathan Redmond,Southampton
-2020-07-16,Southampton,Brighton,17’,Neal Maupay,Assist:Glenn Murray,Brighton
-2020-07-16,Crystal Palace,Manchester Utd,45+1’,Marcus Rashford,,Manchester Utd
-2020-07-16,Crystal Palace,Manchester Utd,78’,Anthony Martial,Assist:Marcus Rashford,Manchester Utd
-2020-07-17,West Ham,Watford,6’,Michail Antonio,,West Ham
-2020-07-17,West Ham,Watford,10’,Tomáš Souček,Assist:Jarrod Bowen,West Ham
-2020-07-17,West Ham,Watford,36’,Declan Rice,Assist:Mark Noble,West Ham
-2020-07-17,West Ham,Watford,49’,Troy Deeney,,Watford
-2020-07-18,Norwich City,Burnley,45+5’,Chris Wood,Assist:Jóhann Berg Guðmundsson,Burnley
-2020-07-18,Norwich City,Burnley,80’,Ben Godfrey,Own Goal,Burnley
-2020-07-19,Bournemouth,Southampton,41’,Danny Ings,Assist:Nathan Redmond,Southampton
-2020-07-19,Bournemouth,Southampton,90+8’,Che Adams,Assist:Michael Obafemi,Southampton
-2020-07-19,Tottenham,Leicester City,6’,James Justin,Own Goal,Tottenham
-2020-07-19,Tottenham,Leicester City,37’,Harry Kane,Assist:Lucas Moura,Tottenham
-2020-07-19,Tottenham,Leicester City,40’,Harry Kane,Assist:Lucas Moura,Tottenham
-2020-07-20,Sheffield Utd,Everton,46’,Richarlison,Assist:Gylfi Sigurðsson,Everton
-2020-07-20,Wolves,Crystal Palace,41’,Daniel Podence,Assist:Matt Doherty,Wolves
-2020-07-20,Wolves,Crystal Palace,68’,Jonny Castro,,Wolves
-2020-07-21,Watford,Manchester City,31’,Raheem Sterling,Assist:Kyle Walker,Manchester City
-2020-07-21,Watford,Manchester City,40’,Raheem Sterling,,Manchester City
-2020-07-21,Watford,Manchester City,63’,Phil Foden,,Manchester City
-2020-07-21,Watford,Manchester City,66’,Aymeric Laporte,Assist:Kevin De Bruyne,Manchester City
-2020-07-21,Aston Villa,Arsenal,27’,Trézéguet,Assist:Tyrone Mings,Aston Villa
-2020-07-22,Manchester Utd,West Ham,51’,Mason Greenwood,Assist:Anthony Martial,Manchester Utd
-2020-07-22,Manchester Utd,West Ham,45+2’,Michail Antonio,Penalty Kick,West Ham
-2020-07-22,Liverpool,Chelsea,23’,Naby Keïta,,Liverpool
-2020-07-22,Liverpool,Chelsea,38’,Trent Alexander-Arnold,,Liverpool
-2020-07-22,Liverpool,Chelsea,43’,Georginio Wijnaldum,Assist:Mohamed Salah,Liverpool
-2020-07-22,Liverpool,Chelsea,54’,Roberto Firmino,Assist:Trent Alexander-Arnold,Liverpool
-2020-07-22,Liverpool,Chelsea,84’,Alex Oxlade-Chamberlain,Assist:Andrew Robertson,Liverpool
-2020-07-22,Liverpool,Chelsea,45+3’,Olivier Giroud,,Chelsea
-2020-07-22,Liverpool,Chelsea,61’,Tammy Abraham,Assist:Christian Pulisic,Chelsea
-2020-07-22,Liverpool,Chelsea,73’,Christian Pulisic,Assist:Callum Hudson-Odoi,Chelsea
-2020-07-26,Burnley,Brighton,44’,Chris Wood,Assist:Erik Pieters,Burnley
-2020-07-26,Burnley,Brighton,20’,Yves Bissouma,,Brighton
-2020-07-26,Burnley,Brighton,50’,Aaron Connolly,Assist:Neal Maupay,Brighton
-2020-07-26,Southampton,Sheffield Utd,50’,Che Adams,Assist:William Smallbone,Southampton
-2020-07-26,Southampton,Sheffield Utd,71’,Che Adams,,Southampton
-2020-07-26,Southampton,Sheffield Utd,84’,Danny Ings,Penalty Kick,Southampton
-2020-07-26,Southampton,Sheffield Utd,26’,John Lundstram,Assist:Billy Sharp,Sheffield Utd
-2020-07-26,West Ham,Aston Villa,85’,Andriy Yarmolenko,Assist:Declan Rice,West Ham
-2020-07-26,West Ham,Aston Villa,84’,Jack Grealish,Assist:John McGinn,Aston Villa
-2020-07-26,Chelsea,Wolves,45+1’,Mason Mount,,Chelsea
-2020-07-26,Chelsea,Wolves,45+4’,Olivier Giroud,Assist:Mason Mount,Chelsea
-2020-07-26,Everton,Bournemouth,41’,Moise Kean,Assist:Theo Walcott,Everton
-2020-07-26,Everton,Bournemouth,13’,Joshua King,Penalty Kick,Bournemouth
-2020-07-26,Everton,Bournemouth,45+1’,Dominic Solanke,Assist:Diego Rico,Bournemouth
-2020-07-26,Everton,Bournemouth,80’,Junior Stanislas,Assist:Joshua King,Bournemouth
-2020-07-26,Crystal Palace,Tottenham,53’,Jeffrey Schlupp,Assist:Jordan Ayew,Crystal Palace
-2020-07-26,Crystal Palace,Tottenham,13’,Harry Kane,Assist:Giovani Lo Celso,Tottenham
-2020-07-26,Arsenal,Watford,5’,Pierre-Emerick Aubameyang,Penalty Kick,Arsenal
-2020-07-26,Arsenal,Watford,24’,Kieran Tierney,Assist:Pierre-Emerick Aubameyang,Arsenal
-2020-07-26,Arsenal,Watford,33’,Pierre-Emerick Aubameyang,Assist:Kieran Tierney,Arsenal
-2020-07-26,Arsenal,Watford,43’,Troy Deeney,Penalty Kick,Watford
-2020-07-26,Arsenal,Watford,66’,Danny Welbeck,Assist:Ismaila Sarr,Watford
-2020-07-26,Manchester City,Norwich City,11’,Gabriel Jesus,,Manchester City
-2020-07-26,Manchester City,Norwich City,45+1’,Kevin De Bruyne,Assist:Kyle Walker,Manchester City
-2020-07-26,Manchester City,Norwich City,79’,Raheem Sterling,Assist:Kevin De Bruyne,Manchester City
-2020-07-26,Manchester City,Norwich City,83’,Riyad Mahrez,,Manchester City
-2020-07-26,Manchester City,Norwich City,90’,Kevin De Bruyne,,Manchester City
-2020-07-26,Newcastle Utd,Liverpool,1’,Dwight Gayle,Assist:Jonjo Shelvey,Newcastle Utd
-2020-07-26,Newcastle Utd,Liverpool,38’,Virgil van Dijk,Assist:Alex Oxlade-Chamberlain,Liverpool
-2020-07-26,Newcastle Utd,Liverpool,59’,Divock Origi,Assist:Andrew Robertson,Liverpool
-2020-07-26,Newcastle Utd,Liverpool,89’,Sadio Mané,Assist:Roberto Firmino,Liverpool
-2020-07-26,Leicester City,Manchester Utd,71’,Bruno Fernandes,Penalty Kick,Manchester Utd
-2020-07-26,Leicester City,Manchester Utd,90+8’,Jesse Lingard,,Manchester Utd
