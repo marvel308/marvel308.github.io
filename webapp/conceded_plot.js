@@ -298,8 +298,8 @@ function addPieForTeamConceded(team, data, title) {
 }
 
 async function concededAnalysisForTeamConceded(team) {
-  let data = await readFile('data.csv');
-  let critical_data = await readFile('critical_data.csv');
+  let data = await readFile('../data.csv');
+  let critical_data = await readFile('../critical_data.csv');
 
   data = data.split('\n').slice(1).map((x) => x.split(','));
   critical_data = critical_data.split('\n').slice(1).map((x) => x.split(','));

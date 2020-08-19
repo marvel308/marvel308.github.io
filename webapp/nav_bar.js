@@ -20,7 +20,7 @@ function FillNavBar(analysis, team) {
 	}
 
 	async function getTeams() {
-		let data = await readFile('data.csv')
+		let data = await readFile('../data.csv')
 		data = data.split('\n').slice(1).map(x => x.split(','))
 		let teams = new Set()
 
@@ -40,7 +40,7 @@ function FillNavBar(analysis, team) {
 	}
 
 	async function getPlayers(team) {
-		let data = await readFile('data.csv')
+		let data = await readFile('../data.csv')
 		data = data.split('\n').slice(1).map(x => x.split(','))
 		let players = new Set()
 
