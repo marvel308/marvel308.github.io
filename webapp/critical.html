@@ -1,0 +1,27 @@
+<html style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
+<body style="height:100%;width:100%;">
+	 <h1>
+      Please Select Analysis
+    </h1>
+	<nav id = "analysis bar">
+		<a href="webapp/critical.html">Critical Data</a>  |
+		<a href="webapp/goal.html">Goal Scored</a>  |
+		<a href="webapp/critical.html">Goal Conceded</a>  |
+		<a href="webapp/facts.html">Goal Facts</a>  |
+	</nav>
+	<h3 id = "team nav heading"></h3>
+	<nav id = "team bar">
+	</nav>
+	<div id="goal-scored" style="height:40%;width:100%;"></div>
+	<div id="critical-scored" style="height:40%;width:100%;"></div>
+</body>
+</html>
+<head>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript" src="webapp/critical_analysis.js"></script>
+	<script type="text/javascript" src="webapp/nav_bar.js"></script>
+	<script type="text/javascript">
+		plotCrtitcalDataLinePlot()
+		FillNavBar('critical')
+	</script>
+</head>
