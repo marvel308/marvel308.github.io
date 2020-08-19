@@ -72,8 +72,8 @@ function plotFactsDataLinePlot() {
 	}
 
 	async function plotCharts() {
-		let data = await readFile('data.csv')
-		let critical_data = await readFile('critical_data.csv')
+		let data = await readFile('../data.csv')
+		let critical_data = await readFile('../critical_data.csv')
 		plotGoalsLinePlot(data, 'goal-scored', 'Assists per day')
 		plotGoalsLinePlot(critical_data, 'critical-scored', 'Critical assists per day')
 	}

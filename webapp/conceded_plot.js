@@ -73,8 +73,8 @@ function plotConcededDataLinePlot() {
   }
 
   async function plotCharts() {
-    const data = await readFile('data.csv');
-    const critical_data = await readFile('critical_data.csv');
+    const data = await readFile('../data.csv');
+    const critical_data = await readFile('../critical_data.csv');
     plotGoalsLinePlot(data, 'goal-scored', 'Goal conceded per day');
     plotGoalsLinePlot(critical_data, 'critical-scored', 'Critical goal conceded per day');
   }
