@@ -66,6 +66,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-08-31,Chelsea,Sheffield Utd,19’,Tammy Abraham,,Chelsea
 2019-08-31,Chelsea,Sheffield Utd,43’,Tammy Abraham,,Chelsea
 2019-08-31,Chelsea,Sheffield Utd,89’,Kurt Zouma,Own Goal,Sheffield Utd
+2019-08-31,Crystal Palace,Aston Villa,73’,Jordan Ayew,,Crystal Palace
 2019-08-31,Leicester City,Bournemouth,12’,Jamie Vardy,Assist:Ben Chilwell,Leicester City
 2019-08-31,Leicester City,Bournemouth,15’,Callum Wilson,Assist:Ryan Fraser,Bournemouth
 2019-08-31,Leicester City,Bournemouth,41’,Youri Tielemans,Assist:Jamie Vardy,Leicester City
@@ -84,71 +85,21 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-09-01,Everton,Wolves,12’,Alex Iwobi,Assist:Gylfi Sigurðsson,Everton
 2019-09-01,Everton,Wolves,5’,Richarlison,Assist:Moise Kean,Everton
 2019-09-01,Everton,Wolves,80’,Richarlison,Assist:Lucas Digne,Everton
-2019-09-14,Brighton,Burnley,51’,Neal Maupay,Assist:Solly March,Brighton
-2019-09-14,Brighton,Burnley,90+1’,Jeff Hendrick,Assist:Matěj Vydra,Burnley
 2019-09-14,Liverpool,Newcastle Utd,28’,Sadio Mané,Assist:Andrew Robertson,Liverpool
 2019-09-14,Liverpool,Newcastle Utd,40’,Sadio Mané,,Liverpool
 2019-09-14,Manchester Utd,Leicester City,8’,Marcus Rashford,Penalty Kick,Manchester Utd
-2019-09-14,Norwich City,Manchester City,18’,Kenny McLean,Assist:Emi Buendía,Norwich City
-2019-09-14,Norwich City,Manchester City,28’,Todd Cantwell,Assist:Teemu Pukki,Norwich City
-2019-09-14,Norwich City,Manchester City,50’,Teemu Pukki,Assist:Emi Buendía,Norwich City
-2019-09-14,Sheffield Utd,Southampton,66’,Moussa Djenepo,Assist:Sofiane Boufal,Southampton
-2019-09-14,Tottenham,Crystal Palace,10’,Son Heung-min,Assist:Toby Alderweireld,Tottenham
-2019-09-14,Tottenham,Crystal Palace,21’,Patrick van Aanholt,Own Goal,Tottenham
 2019-09-14,Wolves,Chelsea,31’,Fikayo Tomori,,Chelsea
 2019-09-14,Wolves,Chelsea,34’,Tammy Abraham,,Chelsea
-2019-09-15,Bournemouth,Everton,23’,Callum Wilson,Assist:Joshua King,Bournemouth
-2019-09-15,Bournemouth,Everton,44’,Dominic Calvert-Lewin,Assist:Richarlison,Everton
-2019-09-15,Bournemouth,Everton,67’,Ryan Fraser,,Bournemouth
-2019-09-15,Bournemouth,Everton,72’,Callum Wilson,Assist:Diego Rico,Bournemouth
-2019-09-15,Watford,Arsenal,21’,Pierre-Emerick Aubameyang,Assist:Sead Kolašinac,Arsenal
-2019-09-15,Watford,Arsenal,32’,Pierre-Emerick Aubameyang,Assist:Ainsley Maitland-Niles,Arsenal
-2019-09-15,Watford,Arsenal,81’,Roberto Pereyra,Penalty Kick,Watford
-2019-09-20,Southampton,Bournemouth,10’,Nathan Aké,Assist:Diego Rico,Bournemouth
-2019-09-20,Southampton,Bournemouth,35’,Harry Wilson,Assist:Philip Billing,Bournemouth
-2019-09-20,Southampton,Bournemouth,90+5’,Callum Wilson,Assist:Aaron Ramsdale,Bournemouth
-2019-09-21,Burnley,Norwich City,10’,Chris Wood,Assist:Ashley Westwood,Burnley
-2019-09-21,Burnley,Norwich City,14’,Chris Wood,Assist:Dwight McNeil,Burnley
 2019-09-21,Everton,Sheffield Utd,40’,Yerry Mina,Own Goal,Sheffield Utd
 2019-09-21,Everton,Sheffield Utd,79’,Lys Mousset,Assist:John Lundstram,Sheffield Utd
-2019-09-21,Leicester City,Tottenham,29’,Harry Kane,Assist:Son Heung-min,Tottenham
-2019-09-21,Leicester City,Tottenham,69’,Ricardo Pereira,,Leicester City
-2019-09-21,Leicester City,Tottenham,85’,James Maddison,Assist:Hamza Choudhury,Leicester City
-2019-09-21,Manchester City,Watford,12’,Riyad Mahrez,,Manchester City
-2019-09-21,Manchester City,Watford,15’,Bernardo Silva,,Manchester City
-2019-09-22,Arsenal,Aston Villa,20’,John McGinn,Assist:Anwar El Ghazi,Aston Villa
-2019-09-22,Arsenal,Aston Villa,59’,Nicolas Pépé,Penalty Kick,Arsenal
-2019-09-22,Arsenal,Aston Villa,60’,Wesley Moraes,Assist:Jack Grealish,Aston Villa
-2019-09-22,Arsenal,Aston Villa,81’,Calum Chambers,,Arsenal
-2019-09-22,Arsenal,Aston Villa,84’,Pierre-Emerick Aubameyang,,Arsenal
-2019-09-22,Chelsea,Liverpool,14’,Trent Alexander-Arnold,Assist:Mohamed Salah,Liverpool
-2019-09-22,Chelsea,Liverpool,30’,Roberto Firmino,Assist:Andrew Robertson,Liverpool
-2019-09-22,Crystal Palace,Wolves,46’,Leander Dendoncker,Own Goal,Crystal Palace
-2019-09-22,Crystal Palace,Wolves,90+5’,Diogo Jota,Assist:Adama Traoré,Wolves
-2019-09-22,West Ham,Manchester Utd,44’,Andriy Yarmolenko,Assist:Felipe Anderson,West Ham
-2019-09-22,West Ham,Manchester Utd,84’,Aaron Cresswell,,West Ham
-2019-09-28,Aston Villa,Burnley,33’,Anwar El Ghazi,Assist:Frederic Guilbert,Aston Villa
-2019-09-28,Aston Villa,Burnley,68’,Jay Rodriguez,Assist:Erik Pieters,Burnley
-2019-09-28,Aston Villa,Burnley,79’,John McGinn,Assist:Trézéguet,Aston Villa
-2019-09-28,Aston Villa,Burnley,81’,Chris Wood,Assist:Matthew Lowton,Burnley
 2019-09-28,Bournemouth,West Ham,10’,Andriy Yarmolenko,Assist:Sébastien Haller,West Ham
 2019-09-28,Bournemouth,West Ham,17’,Joshua King,Assist:Nathan Aké,Bournemouth
 2019-09-28,Bournemouth,West Ham,46’,Callum Wilson,Assist:Joshua King,Bournemouth
 2019-09-28,Bournemouth,West Ham,74’,Aaron Cresswell,Assist:Felipe Anderson,West Ham
-2019-09-28,Chelsea,Brighton,50’,Jorginho,Penalty Kick,Chelsea
-2019-09-28,Chelsea,Brighton,76’,Willian,Assist:Callum Hudson-Odoi,Chelsea
-2019-09-28,Crystal Palace,Norwich City,21’,Luka Milivojević,Penalty Kick,Crystal Palace
-2019-09-28,Crystal Palace,Norwich City,90+2’,Andros Townsend,Assist:Wilfried Zaha,Crystal Palace
 2019-09-28,Everton,Manchester City,24’,Gabriel Jesus,Assist:Kevin De Bruyne,Manchester City
 2019-09-28,Everton,Manchester City,33’,Dominic Calvert-Lewin,Assist:Séamus Coleman,Everton
 2019-09-28,Everton,Manchester City,71’,Riyad Mahrez,,Manchester City
 2019-09-28,Everton,Manchester City,84’,Raheem Sterling,,Manchester City
-2019-09-28,Sheffield Utd,Liverpool,70’,Georginio Wijnaldum,,Liverpool
-2019-09-28,Tottenham,Southampton,24’,Tanguy Ndombele,Assist:Son Heung-min,Tottenham
-2019-09-28,Tottenham,Southampton,39’,Danny Ings,,Southampton
-2019-09-28,Tottenham,Southampton,43’,Harry Kane,Assist:Christian Eriksen,Tottenham
-2019-09-28,Wolves,Watford,18’,Matt Doherty,Assist:Pedro Neto,Wolves
-2019-09-28,Wolves,Watford,61’,Daryl Janmaat,Own Goal,Wolves
 2019-09-29,Leicester City,Newcastle Utd,16’,Ricardo Pereira,,Leicester City
 2019-09-29,Leicester City,Newcastle Utd,54’,Jamie Vardy,Assist:Harvey Barnes,Leicester City
 2019-09-30,Manchester Utd,Arsenal,45’,Scott McTominay,Assist:Marcus Rashford,Manchester Utd
@@ -156,13 +107,219 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2019-10-05,Brighton,Tottenham,32’,Aaron Connolly,,Brighton
 2019-10-05,Brighton,Tottenham,3’,Neal Maupay,,Brighton
 2019-10-05,Burnley,Everton,72’,Jeff Hendrick,Assist:Ashley Westwood,Burnley
+2019-10-05,Liverpool,Leicester City,40’,Sadio Mané,Assist:James Milner,Liverpool
+2019-10-05,Liverpool,Leicester City,80’,James Maddison,Assist:Ayoze Pérez,Leicester City
+2019-10-05,Liverpool,Leicester City,90+5’,James Milner,Penalty Kick,Liverpool
+2019-10-05,Norwich City,Aston Villa,14’,Wesley Moraes,Assist:Anwar El Ghazi,Aston Villa
+2019-10-05,Norwich City,Aston Villa,30’,Wesley Moraes,Assist:Conor Hourihane,Aston Villa
+2019-10-05,West Ham,Crystal Palace,54’,Sébastien Haller,Assist:Ryan Fredericks,West Ham
+2019-10-05,West Ham,Crystal Palace,63’,Patrick van Aanholt,Penalty Kick,Crystal Palace
+2019-10-05,West Ham,Crystal Palace,87’,Jordan Ayew,Assist:Martin Kelly,Crystal Palace
+2019-10-06,Arsenal,Bournemouth,9’,David Luiz,Assist:Nicolas Pépé,Arsenal
+2019-10-06,Manchester City,Wolves,80’,Adama Traoré,Assist:Raúl Jiménez,Wolves
+2019-10-06,Manchester City,Wolves,90+4’,Adama Traoré,Assist:Raúl Jiménez,Wolves
+2019-10-06,Newcastle Utd,Manchester Utd,72’,Matthew Longstaff,Assist:Jetro Willems,Newcastle Utd
 2019-10-06,Southampton,Chelsea,17’,Tammy Abraham,Assist:Callum Hudson-Odoi,Chelsea
 2019-10-06,Southampton,Chelsea,24’,Mason Mount,Assist:Willian,Chelsea
 2019-10-06,Southampton,Chelsea,40’,N'Golo Kanté,Assist:Marcos Alonso,Chelsea
+2019-10-19,Aston Villa,Brighton,21’,Adam Webster,Assist:Pascal Groß,Brighton
+2019-10-19,Aston Villa,Brighton,45+2’,Jack Grealish,Assist:Frederic Guilbert,Aston Villa
+2019-10-19,Aston Villa,Brighton,90+4’,Matt Targett,Assist:Jack Grealish,Aston Villa
+2019-10-19,Chelsea,Newcastle Utd,73’,Marcos Alonso,Assist:Callum Hudson-Odoi,Chelsea
+2019-10-19,Crystal Palace,Manchester City,39’,Gabriel Jesus,Assist:Bernardo Silva,Manchester City
+2019-10-19,Crystal Palace,Manchester City,41’,David Silva,Assist:Raheem Sterling,Manchester City
+2019-10-19,Everton,West Ham,17’,Bernard,Assist:Theo Walcott,Everton
+2019-10-19,Everton,West Ham,90+2’,Gylfi Sigurðsson,Assist:Richarlison,Everton
+2019-10-19,Leicester City,Burnley,26’,Chris Wood,Assist:Dwight McNeil,Burnley
+2019-10-19,Leicester City,Burnley,45’,Jamie Vardy,Assist:Harvey Barnes,Leicester City
+2019-10-19,Leicester City,Burnley,74’,Youri Tielemans,Assist:Harvey Barnes,Leicester City
+2019-10-19,Tottenham,Watford,6’,Abdoulaye Doucouré,Assist:Daryl Janmaat,Watford
+2019-10-19,Tottenham,Watford,86’,Dele Alli,,Tottenham
+2019-10-19,Wolves,Southampton,53’,Danny Ings,,Southampton
+2019-10-19,Wolves,Southampton,61’,Raúl Jiménez,Penalty Kick,Wolves
+2019-10-20,Manchester Utd,Liverpool,36’,Marcus Rashford,Assist:Daniel James,Manchester Utd
+2019-10-20,Manchester Utd,Liverpool,85’,Adam Lallana,Assist:Andrew Robertson,Liverpool
+2019-10-21,Sheffield Utd,Arsenal,30’,Lys Mousset,Assist:Jack O'Connell,Sheffield Utd
+2019-10-25,Southampton,Leicester City,10’,Ben Chilwell,,Leicester City
+2019-10-25,Southampton,Leicester City,17’,Youri Tielemans,,Leicester City
+2019-10-26,Brighton,Everton,15’,Pascal Groß,,Brighton
+2019-10-26,Brighton,Everton,20’,Adam Webster,Own Goal,Everton
+2019-10-26,Brighton,Everton,74’,Dominic Calvert-Lewin,Assist:Mason Holgate,Everton
+2019-10-26,Brighton,Everton,80’,Neal Maupay,Penalty Kick,Brighton
+2019-10-26,Brighton,Everton,90+4’,Lucas Digne,Own Goal,Brighton
+2019-10-26,Burnley,Chelsea,21’,Christian Pulisic,,Chelsea
+2019-10-26,Burnley,Chelsea,45’,Christian Pulisic,Assist:Willian,Chelsea
+2019-10-26,Manchester City,Aston Villa,46’,Raheem Sterling,,Manchester City
+2019-10-26,Manchester City,Aston Villa,65’,David Silva,Assist:Kevin De Bruyne,Manchester City
+2019-10-26,West Ham,Sheffield Utd,44’,Robert Snodgrass,Assist:Andriy Yarmolenko,West Ham
+2019-10-26,West Ham,Sheffield Utd,69’,Lys Mousset,Assist:Enda Stevens,Sheffield Utd
+2019-10-27,Arsenal,Crystal Palace,32’,Luka Milivojević,Penalty Kick,Crystal Palace
+2019-10-27,Arsenal,Crystal Palace,52’,Jordan Ayew,Assist:James McArthur,Crystal Palace
+2019-10-27,Arsenal,Crystal Palace,9’,David Luiz,,Arsenal
+2019-10-27,Liverpool,Tottenham,1’,Harry Kane,,Tottenham
+2019-10-27,Liverpool,Tottenham,52’,Jordan Henderson,,Liverpool
+2019-10-27,Liverpool,Tottenham,75’,Mohamed Salah,Penalty Kick,Liverpool
+2019-10-27,Newcastle Utd,Wolves,37’,Jamaal Lascelles,Assist:Federico Fernández,Newcastle Utd
+2019-10-27,Newcastle Utd,Wolves,73’,Jonny Castro,,Wolves
+2019-10-27,Norwich City,Manchester Utd,21’,Scott McTominay,,Manchester Utd
+2019-10-27,Norwich City,Manchester Utd,30’,Marcus Rashford,Assist:Daniel James,Manchester Utd
+2019-11-02,Arsenal,Wolves,21’,Pierre-Emerick Aubameyang,Assist:Alexandre Lacazette,Arsenal
+2019-11-02,Arsenal,Wolves,76’,Raúl Jiménez,Assist:João Moutinho,Wolves
+2019-11-02,Aston Villa,Liverpool,21’,Trézéguet,Assist:John McGinn,Aston Villa
+2019-11-02,Aston Villa,Liverpool,87’,Andrew Robertson,Assist:Sadio Mané,Liverpool
+2019-11-02,Aston Villa,Liverpool,90+4’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
+2019-11-02,Bournemouth,Manchester Utd,45’,Joshua King,Assist:Adam Smith,Bournemouth
+2019-11-02,Brighton,Norwich City,68’,Leandro Trossard,Assist:Martín Montoya,Brighton
+2019-11-02,Brighton,Norwich City,84’,Shane Duffy,Assist:Leandro Trossard,Brighton
+2019-11-02,Manchester City,Southampton,13’,James Ward-Prowse,,Southampton
+2019-11-02,Manchester City,Southampton,70’,Sergio Agüero,Assist:Kyle Walker,Manchester City
+2019-11-02,Manchester City,Southampton,86’,Kyle Walker,,Manchester City
+2019-11-02,Sheffield Utd,Burnley,17’,John Lundstram,Assist:Lys Mousset,Sheffield Utd
+2019-11-02,Sheffield Utd,Burnley,43’,John Lundstram,Assist:Lys Mousset,Sheffield Utd
+2019-11-02,Watford,Chelsea,55’,Christian Pulisic,Assist:Tammy Abraham,Chelsea
+2019-11-02,Watford,Chelsea,5’,Tammy Abraham,Assist:Jorginho,Chelsea
+2019-11-02,West Ham,Newcastle Utd,16’,Ciaran Clark,Assist:Joelinton,Newcastle Utd
+2019-11-02,West Ham,Newcastle Utd,22’,Federico Fernández,Assist:Jetro Willems,Newcastle Utd
+2019-11-03,Crystal Palace,Leicester City,57’,Çağlar Söyüncü,,Leicester City
+2019-11-03,Crystal Palace,Leicester City,88’,Jamie Vardy,Assist:Demarai Gray,Leicester City
+2019-11-03,Everton,Tottenham,63’,Dele Alli,Assist:Son Heung-min,Tottenham
+2019-11-03,Everton,Tottenham,90+7’,Cenk Tosun,Assist:Lucas Digne,Everton
+2019-11-08,Norwich City,Watford,2’,Gerard Deulofeu,,Watford
+2019-11-08,Norwich City,Watford,52’,Andre Gray,Assist:Gerard Deulofeu,Watford
+2019-11-09,Burnley,West Ham,11’,Ashley Barnes,Assist:James Tarkowski,Burnley
+2019-11-09,Burnley,West Ham,44’,Chris Wood,Assist:Dwight McNeil,Burnley
+2019-11-09,Chelsea,Crystal Palace,52’,Tammy Abraham,Assist:Willian,Chelsea
+2019-11-09,Chelsea,Crystal Palace,79’,Christian Pulisic,,Chelsea
+2019-11-09,Leicester City,Arsenal,68’,Jamie Vardy,Assist:Youri Tielemans,Leicester City
+2019-11-09,Leicester City,Arsenal,75’,James Maddison,Assist:Jamie Vardy,Leicester City
+2019-11-09,Newcastle Utd,Bournemouth,14’,Harry Wilson,Assist:Ryan Fraser,Bournemouth
+2019-11-09,Newcastle Utd,Bournemouth,42’,DeAndre Yedlin,,Newcastle Utd
+2019-11-09,Newcastle Utd,Bournemouth,52’,Ciaran Clark,,Newcastle Utd
+2019-11-09,Southampton,Everton,4’,Tom Davies,Assist:Mason Holgate,Everton
+2019-11-09,Southampton,Everton,50’,Danny Ings,,Southampton
+2019-11-09,Southampton,Everton,75’,Richarlison,Assist:Djibril Sidibé,Everton
+2019-11-09,Tottenham,Sheffield Utd,58’,Son Heung-min,,Tottenham
+2019-11-09,Tottenham,Sheffield Utd,78’,George Baldock,Assist:David McGoldrick,Sheffield Utd
+2019-11-10,Liverpool,Manchester City,13’,Mohamed Salah,Assist:Andrew Robertson,Liverpool
+2019-11-10,Liverpool,Manchester City,51’,Sadio Mané,Assist:Jordan Henderson,Liverpool
+2019-11-10,Manchester Utd,Brighton,17’,Andreas Pereira,Assist:Anthony Martial,Manchester Utd
+2019-11-10,Manchester Utd,Brighton,19’,Scott McTominay,Assist:Harry Maguire,Manchester Utd
+2019-11-10,Manchester Utd,Brighton,66’,Marcus Rashford,Assist:Anthony Martial,Manchester Utd
+2019-11-10,Wolves,Aston Villa,41’,Rúben Neves,Assist:João Moutinho,Wolves
+2019-11-10,Wolves,Aston Villa,84’,Raúl Jiménez,Assist:Adama Traoré,Wolves
+2019-11-23,Arsenal,Southampton,18’,Alexandre Lacazette,,Arsenal
+2019-11-23,Arsenal,Southampton,71’,James Ward-Prowse,,Southampton
+2019-11-23,Arsenal,Southampton,8’,Danny Ings,Assist:Ryan Bertrand,Southampton
+2019-11-23,Arsenal,Southampton,90+6’,Alexandre Lacazette,,Arsenal
+2019-11-23,Bournemouth,Wolves,21’,João Moutinho,,Wolves
+2019-11-23,Bournemouth,Wolves,31’,Raúl Jiménez,Assist:Adama Traoré,Wolves
+2019-11-23,Brighton,Leicester City,64’,Ayoze Pérez,Assist:Jamie Vardy,Leicester City
+2019-11-23,Brighton,Leicester City,82’,Jamie Vardy,Penalty Kick,Leicester City
+2019-11-23,Crystal Palace,Liverpool,49’,Sadio Mané,Assist:Andrew Robertson,Liverpool
+2019-11-23,Crystal Palace,Liverpool,82’,Wilfried Zaha,Assist:Andros Townsend,Crystal Palace
+2019-11-23,Crystal Palace,Liverpool,85’,Roberto Firmino,,Liverpool
+2019-11-23,Everton,Norwich City,54’,Todd Cantwell,Assist:Teemu Pukki,Norwich City
+2019-11-23,Everton,Norwich City,90+2’,Dennis Srbeny,,Norwich City
+2019-11-23,Manchester City,Chelsea,21’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
+2019-11-23,Manchester City,Chelsea,29’,Kevin De Bruyne,,Manchester City
+2019-11-23,Manchester City,Chelsea,37’,Riyad Mahrez,Assist:Rodri,Manchester City
+2019-11-23,Watford,Burnley,53’,Chris Wood,,Burnley
+2019-11-23,Watford,Burnley,82’,Ashley Barnes,Penalty Kick,Burnley
+2019-11-23,West Ham,Tottenham,36’,Son Heung-min,Assist:Dele Alli,Tottenham
+2019-11-23,West Ham,Tottenham,43’,Lucas Moura,Assist:Son Heung-min,Tottenham
+2019-11-24,Sheffield Utd,Manchester Utd,19’,John Fleck,,Sheffield Utd
+2019-11-24,Sheffield Utd,Manchester Utd,52’,Lys Mousset,Assist:John Fleck,Sheffield Utd
+2019-11-24,Sheffield Utd,Manchester Utd,77’,Mason Greenwood,Assist:Marcus Rashford,Manchester Utd
+2019-11-24,Sheffield Utd,Manchester Utd,79’,Marcus Rashford,Assist:Daniel James,Manchester Utd
+2019-11-24,Sheffield Utd,Manchester Utd,90’,Oliver McBurnie,Assist:Callum Robinson,Sheffield Utd
+2019-11-25,Aston Villa,Newcastle Utd,32’,Conor Hourihane,Assist:Jack Grealish,Aston Villa
+2019-11-25,Aston Villa,Newcastle Utd,36’,Anwar El Ghazi,Assist:Conor Hourihane,Aston Villa
+2019-11-30,Burnley,Crystal Palace,45+1’,Wilfried Zaha,Assist:Scott Dann,Crystal Palace
+2019-11-30,Burnley,Crystal Palace,78’,Jeffrey Schlupp,,Crystal Palace
+2019-11-30,Chelsea,West Ham,48’,Aaron Cresswell,Assist:Pablo Fornals,West Ham
+2019-11-30,Liverpool,Brighton,18’,Virgil van Dijk,Assist:Trent Alexander-Arnold,Liverpool
+2019-11-30,Liverpool,Brighton,24’,Virgil van Dijk,Assist:Trent Alexander-Arnold,Liverpool
+2019-11-30,Newcastle Utd,Manchester City,22’,Raheem Sterling,Assist:David Silva,Manchester City
+2019-11-30,Newcastle Utd,Manchester City,25’,Jetro Willems,Assist:Miguel Almirón,Newcastle Utd
+2019-11-30,Newcastle Utd,Manchester City,82’,Kevin De Bruyne,,Manchester City
+2019-11-30,Newcastle Utd,Manchester City,88’,Jonjo Shelvey,Assist:Christian Atsu,Newcastle Utd
+2019-11-30,Southampton,Watford,24’,Ismaila Sarr,,Watford
+2019-11-30,Southampton,Watford,78’,Danny Ings,Assist:Moussa Djenepo,Southampton
+2019-11-30,Southampton,Watford,83’,James Ward-Prowse,,Southampton
+2019-11-30,Tottenham,Bournemouth,21’,Dele Alli,Assist:Son Heung-min,Tottenham
+2019-11-30,Tottenham,Bournemouth,50’,Dele Alli,Assist:Toby Alderweireld,Tottenham
+2019-12-01,Leicester City,Everton,23’,Richarlison,Assist:Djibril Sidibé,Everton
+2019-12-01,Leicester City,Everton,68’,Jamie Vardy,Assist:Kelechi Iheanacho,Leicester City
+2019-12-01,Leicester City,Everton,90+4’,Kelechi Iheanacho,Assist:Ricardo Pereira,Leicester City
+2019-12-01,Manchester Utd,Aston Villa,11’,Jack Grealish,Assist:Anwar El Ghazi,Aston Villa
+2019-12-01,Manchester Utd,Aston Villa,42’,Tom Heaton,Own Goal,Manchester Utd
+2019-12-01,Manchester Utd,Aston Villa,64’,Victor Lindelöf,,Manchester Utd
+2019-12-01,Manchester Utd,Aston Villa,66’,Tyrone Mings,Assist:Matt Targett,Aston Villa
+2019-12-01,Norwich City,Arsenal,21’,Teemu Pukki,Assist:Kenny McLean,Norwich City
+2019-12-01,Norwich City,Arsenal,29’,Pierre-Emerick Aubameyang,Penalty Kick,Arsenal
+2019-12-01,Norwich City,Arsenal,45+2’,Todd Cantwell,Assist:Onel Hernández,Norwich City
+2019-12-01,Norwich City,Arsenal,57’,Pierre-Emerick Aubameyang,,Arsenal
+2019-12-01,Wolves,Sheffield Utd,2’,Lys Mousset,Assist:George Baldock,Sheffield Utd
+2019-12-01,Wolves,Sheffield Utd,64’,Matt Doherty,Assist:Raúl Jiménez,Wolves
+2019-12-03,Burnley,Manchester City,24’,Gabriel Jesus,Assist:David Silva,Manchester City
+2019-12-03,Burnley,Manchester City,50’,Gabriel Jesus,Assist:Bernardo Silva,Manchester City
+2019-12-03,Crystal Palace,Bournemouth,76’,Jeffrey Schlupp,Assist:James McArthur,Crystal Palace
+2019-12-04,Chelsea,Aston Villa,24’,Tammy Abraham,Assist:Reece James,Chelsea
+2019-12-04,Chelsea,Aston Villa,41’,Trézéguet,Assist:Ahmed Elmohamady,Aston Villa
+2019-12-04,Chelsea,Aston Villa,48’,Mason Mount,Assist:Tammy Abraham,Chelsea
+2019-12-04,Leicester City,Watford,55’,Jamie Vardy,Penalty Kick,Leicester City
+2019-12-04,Leicester City,Watford,90+5’,James Maddison,Assist:James Justin,Leicester City
+2019-12-04,Liverpool,Everton,17’,Xherdan Shaqiri,Assist:Sadio Mané,Liverpool
+2019-12-04,Liverpool,Everton,21’,Michael Keane,,Everton
+2019-12-04,Liverpool,Everton,31’,Divock Origi,Assist:Dejan Lovren,Liverpool
+2019-12-04,Liverpool,Everton,45+3’,Richarlison,Assist:Bernard,Everton
+2019-12-04,Liverpool,Everton,45’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
+2019-12-04,Liverpool,Everton,6’,Divock Origi,Assist:Sadio Mané,Liverpool
+2019-12-04,Manchester Utd,Tottenham,39’,Dele Alli,,Tottenham
+2019-12-04,Manchester Utd,Tottenham,49’,Marcus Rashford,Penalty Kick,Manchester Utd
+2019-12-04,Manchester Utd,Tottenham,6’,Marcus Rashford,,Manchester Utd
+2019-12-04,Southampton,Norwich City,22’,Danny Ings,Assist:James Ward-Prowse,Southampton
+2019-12-04,Southampton,Norwich City,43’,Ryan Bertrand,Assist:Shane Long,Southampton
+2019-12-04,Wolves,West Ham,23’,Leander Dendoncker,Assist:João Moutinho,Wolves
+2019-12-04,Wolves,West Ham,86’,Patrick Cutrone,Assist:Pedro Neto,Wolves
+2019-12-05,Arsenal,Brighton,36’,Adam Webster,,Brighton
+2019-12-05,Arsenal,Brighton,50’,Alexandre Lacazette,Assist:Mesut Özil,Arsenal
+2019-12-05,Arsenal,Brighton,80’,Neal Maupay,Assist:Aaron Mooy,Brighton
+2019-12-05,Sheffield Utd,Newcastle Utd,15’,Allan Saint-Maximin,Assist:Javier Manquillo,Newcastle Utd
+2019-12-05,Sheffield Utd,Newcastle Utd,70’,Jonjo Shelvey,Assist:Andy Carroll,Newcastle Utd
+2019-12-07,Bournemouth,Liverpool,35’,Alex Oxlade-Chamberlain,Assist:Jordan Henderson,Liverpool
+2019-12-07,Bournemouth,Liverpool,44’,Naby Keïta,Assist:Mohamed Salah,Liverpool
+2019-12-07,Everton,Chelsea,49’,Dominic Calvert-Lewin,,Everton
+2019-12-07,Everton,Chelsea,52’,Mateo Kovačić,,Chelsea
+2019-12-07,Everton,Chelsea,5’,Richarlison,Assist:Djibril Sidibé,Everton
+2019-12-07,Everton,Chelsea,84’,Dominic Calvert-Lewin,,Everton
+2019-12-07,Manchester City,Manchester Utd,23’,Marcus Rashford,Penalty Kick,Manchester Utd
+2019-12-07,Manchester City,Manchester Utd,29’,Anthony Martial,Assist:Daniel James,Manchester Utd
+2019-12-07,Tottenham,Burnley,32’,Son Heung-min,Assist:Jan Vertonghen,Tottenham
+2019-12-07,Tottenham,Burnley,4’,Harry Kane,Assist:Son Heung-min,Tottenham
+2019-12-08,Aston Villa,Leicester City,20’,Jamie Vardy,Assist:Kelechi Iheanacho,Leicester City
+2019-12-08,Aston Villa,Leicester City,41’,Kelechi Iheanacho,,Leicester City
+2019-12-08,Aston Villa,Leicester City,49’,Jonny Evans,Assist:James Maddison,Leicester City
+2019-12-08,Brighton,Wolves,28’,Diogo Jota,Assist:Raúl Jiménez,Wolves
+2019-12-08,Brighton,Wolves,34’,Neal Maupay,Assist:Dale Stephens,Brighton
+2019-12-08,Brighton,Wolves,36’,Davy Pröpper,Assist:Leandro Trossard,Brighton
+2019-12-08,Brighton,Wolves,44’,Diogo Jota,Assist:Jonny Castro,Wolves
+2019-12-08,Newcastle Utd,Southampton,52’,Danny Ings,Assist:Jack Stephens,Southampton
+2019-12-08,Newcastle Utd,Southampton,68’,Jonjo Shelvey,Assist:Andy Carroll,Newcastle Utd
+2019-12-08,Newcastle Utd,Southampton,87’,Federico Fernández,,Newcastle Utd
+2019-12-08,Norwich City,Sheffield Utd,27’,Alexander Tettey,Assist:Christoph Zimmermann,Norwich City
+2019-12-08,Norwich City,Sheffield Utd,49’,Enda Stevens,Assist:George Baldock,Sheffield Utd
+2019-12-08,Norwich City,Sheffield Utd,52’,George Baldock,,Sheffield Utd
+2019-12-09,West Ham,Arsenal,38’,Angelo Ogbonna,Assist:Pablo Fornals,West Ham
+2019-12-09,West Ham,Arsenal,60’,Martinelli,Assist:Sead Kolašinac,Arsenal
+2019-12-09,West Ham,Arsenal,66’,Nicolas Pépé,Assist:Pierre-Emerick Aubameyang,Arsenal
+2019-12-09,West Ham,Arsenal,69’,Pierre-Emerick Aubameyang,Assist:Nicolas Pépé,Arsenal
 2019-12-14,Burnley,Newcastle Utd,58’,Chris Wood,Assist:Ashley Westwood,Burnley
 2019-12-14,Chelsea,Bournemouth,84’,Dan Gosling,Assist:Jefferson Lerma,Bournemouth
 2019-12-14,Leicester City,Norwich City,26’,Teemu Pukki,Assist:Emi Buendía,Norwich City
 2019-12-14,Leicester City,Norwich City,38’,Tim Krul,Own Goal,Leicester City
+2019-12-14,Liverpool,Watford,38’,Mohamed Salah,Assist:Sadio Mané,Liverpool
+2019-12-14,Liverpool,Watford,90’,Mohamed Salah,Assist:Divock Origi,Liverpool
 2019-12-14,Sheffield Utd,Aston Villa,50’,John Fleck,Assist:John Lundstram,Sheffield Utd
 2019-12-14,Sheffield Utd,Aston Villa,73’,John Fleck,Assist:David McGoldrick,Sheffield Utd
 2019-12-14,Southampton,West Ham,37’,Sébastien Haller,Assist:Pablo Fornals,West Ham
