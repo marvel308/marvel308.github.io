@@ -1,0 +1,58 @@
+<html style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
+<body style="height:100%;width:100%;">
+	 <h1>
+      Please Select Analysis
+    </h1>
+	<nav id = "analysis bar">
+		<a href="critical.html">Critical Data</a>  |
+		<a href="goal.html">Goal Scored</a>  |
+		<a href="conceded.html">Goal Conceded</a>  |
+		<a href="facts.html">Goal Facts</a>  |
+	</nav>
+	<h3 id = "team nav heading"></h3>
+	<nav id = "team bar"></nav>
+	<h3 id = "player nav heading"></h3>
+	<nav id = "player bar"></nav>
+	<h3></h3>
+	<div>
+		<div id="table" style="height:40%;width:50%;float: left;"></div>
+		<div id="histogram" style="height:40%;width:50%;float: left;"></div>
+	</div>
+	<div>
+		<div id="stacked" style="height:40%;width:50%;float: left;"></div>
+		<div id="pie" style="height:40%;width:50%;float: left;"></div>
+	</div>
+</body>
+</html>
+<head>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript" src="critical_analysis.js"></script>
+	<script type="text/javascript" src="goal_analysis.js"></script>
+	<script type="text/javascript" src="conceded_plot.js"></script>
+	<script type="text/javascript" src="facts_plot.js"></script>
+	<script type="text/javascript" src="nav_bar.js"></script>
+	<script type="text/javascript">
+		const urlParams = new URLSearchParams(window.location.search);
+		const team = urlParams.get('team')
+		const analysis = urlParams.get('analysis')
+		if (analysis == 'conceded' || analysis == 'facts') {
+			FillNavBar(analysis)
+		}
+		else {
+			FillNavBar(analysis, team)
+		}
+		if (analysis == 'critical') {
+			crticalAnalysisForTeam(team)
+		}
+		else if(analysis == 'goal') {
+			goalAnalysisForTeam(team)
+		}
+		else if(analysis == 'conceded') {
+			concededAnalysisForTeamConceded(team)
+		}
+		else if(analysis == 'facts') {
+			crticalAnalysisForTeamFacts(team)
+		}
+
+	</script>
+</head>

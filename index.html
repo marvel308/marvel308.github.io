@@ -1,108 +1,13 @@
-<canvas id="goal-scored"></canvas>
-<canvas id="critical-scored"></canvas>
-
-<head>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-  <script>    
-    function getCanvasObjFromData(data, text) {
-      data = data.split('\n').map(x => x.split(','))
-
-      let date_wise_data = new Map()
-
-      data.forEach(matchpoint => {
-        if (!date_wise_data.has(matchpoint[0])) {
-          date_wise_data.set(matchpoint[0], new Map())
-        }
-        let date_map = date_wise_data.get(matchpoint[0])
-        if (!date_map.has(matchpoint[6])) {
-          date_map.set(matchpoint[6], 0)
-        }
-        date_map.set(matchpoint[6], date_map.get(matchpoint[6]) + 1)
-      })
-
-      let plot_data = new Map();
-
-      let plot_array = new Map();
-
-      let all_teams = new Set()
-
-      data.forEach(matchpoint => all_teams.add(matchpoint[1]))
-
-      for (let [date, date_map] of date_wise_data) {
-        for (let [team, value] of date_map) {
-          if (!plot_data.has(team)) {
-            plot_data.set(team, 0)
-          }
-          plot_data.set(team, plot_data.get(team) + value)
-        }
-        for (let team of all_teams) {
-          if (!plot_array.has(team)) {
-            plot_array.set(team, [])
-          }
-          if (plot_data.has(team)) {
-            plot_array.get(team).push(plot_data.get(team))
-          } else {
-            plot_array.get(team).push(0)
-          }
-        }
-      }
-
-
-      let chart_obj = {
-        type: 'line',
-        data: {
-          labels: [...date_wise_data.keys()],
-          datasets: []
-        },
-        options: {
-          title: {
-            display: true,
-            text: text
-          }
-        }
-      }
-
-
-      let team_whitelist = new Set(['Manchester City', "Liverpool", "Manchester Utd", "Chelsea", "Arsenal", "Tottenham"])
-      let borderColor = {
-        "Manchester City": "#3e95cd",
-        "Liverpool": "#8e5ea2",
-        "Manchester Utd": "#3cba9f",
-        "Chelsea": "#e8c3b9",
-        "Arsenal": "#c45850",
-        "Tottenham": "#000000"
-      }
-
-      for (let [team, goal_data] of plot_array) {
-        if (team_whitelist.has(team)) {
-
-          chart_obj.data.datasets.push({
-            data: goal_data,
-            label: team,
-            borderColor: borderColor[team],
-            fill: false
-          })
-        }
-      }
-      return chart_obj
-    }
-
-    async function readFile(file_name) {
-    	let data = await fetch(file_name).then(x => x.text())
-    	return data
-    }
-
-    async function plotFromFile(file_name, div_id, title) {
-    	let data = await readFile(file_name)
-    	data = data.split('\n').slice(1).join('\n')
-    	console.log('data', data)
-    	new Chart(document.getElementById(div_id), getCanvasObjFromData(data, title));
-    }
-
-    window.onload = function() {
-    	plotFromFile('data.csv', 'goal-scored', 'Goal Scored per day')
-    	plotFromFile('critical_data.csv', 'critical-scored', 'Critical Goal Scored per day')
-    }
-
-  </script>
-</head>
+<html style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
+<body style="height:100%;width:100%;">
+	<h1>
+      Please Select Analysis
+    </h1>
+	<nav id = "analysis bar">
+		<a href="webapp/critical.html">Critical Data</a>  |
+		<a href="webapp/goal.html">Goal Scored</a>  |
+		<a href="webapp/conceded.html">Goal Conceded</a>  |
+		<a href="webapp/facts.html">Goal Facts</a>  |
+	</nav>
+</body>
+</html>
