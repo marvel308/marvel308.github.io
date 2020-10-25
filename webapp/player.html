@@ -1,47 +1,56 @@
 <html style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
 <body style="height:100%;width:100%;">
-	 <h1>
-      Please Select Analysis
-    </h1>
-	<nav id = "analysis bar">
-		<a href="critical.html">Critical Data</a>  |
-		<a href="goal.html">Goal Scored</a>  |
-		<a href="conceded.html">Goal Conceded</a>  |
-		<a href="critical.html">Goal Facts</a>  |
-	</nav>
-	<h3 id = "team nav heading"></h3>
-	<nav id = "team bar"></nav>
-	<h3 id = "player nav heading"></h3>
-	<nav id = "player bar"></nav>
-	<h3></h3>
-	<div>
-		<div id="table" style="height:40%;width:50%;float: left;"></div>
-		<div id="histogram" style="height:40%;width:50%;float: left;"></div>
-	</div>
-	<div>
-		<div id="stacked" style="height:40%;width:50%;float: left;"></div>
-		<div id="pie" style="height:40%;width:50%;float: left;"></div>
-	</div>
+ <h1>
+  Please Select Analysis
+</h1>
+<nav id = "analysis bar">
+  <a href="critical.html">Critical Data</a>  |
+  <a href="goal.html">Goal Scored</a>  |
+  <a href="conceded.html">Goal Conceded</a>  |
+  <a href="critical.html">Goal Facts</a>  |
+</nav>
+<h3 id = "team nav heading"></h3>
+<nav id = "team bar"></nav>
+<h3 id = "player nav heading"></h3>
+<nav id = "player bar"></nav>
+<h3></h3>
+<div>
+  <div id="table" style="height:40%;width:50%;float: left;"></div>
+  <div id="histogram" style="height:40%;width:50%;float: left;"></div>
+</div>
+<div>
+  <div id="stacked" style="height:40%;width:50%;float: left;"></div>
+  <div id="pie" style="height:40%;width:50%;float: left;"></div>
+</div>
 </body>
 </html>
 <head>
-	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-	<script type="text/javascript" src="critical_analysis.js"></script>
-	<script type="text/javascript" src="critical_analysis_player.js"></script>
-	<script type="text/javascript" src="goal_analysis.js"></script>
-	<script type="text/javascript" src="nav_bar.js"></script>
-	<script type="text/javascript">
-		const urlParams = new URLSearchParams(window.location.search);
-		const team = urlParams.get('team')
-		const analysis = urlParams.get('analysis')
-		const player = urlParams.get('player')
-		FillNavBar(analysis, team)
-		if (analysis == 'critical') {
-			crticalAnalysisForPlayer(player)
-		}
-		else if(analysis == 'goal') {
-			goalAnalysisForPlayer(player)
-		}
-		
-	</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HYRKG51N5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4HYRKG51N5');
+  </script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="critical_analysis.js"></script>
+  <script type="text/javascript" src="critical_analysis_player.js"></script>
+  <script type="text/javascript" src="goal_analysis.js"></script>
+  <script type="text/javascript" src="nav_bar.js"></script>
+  <script type="text/javascript">
+    const urlParams = new URLSearchParams(window.location.search);
+    const team = urlParams.get('team')
+    const analysis = urlParams.get('analysis')
+    const player = urlParams.get('player')
+    FillNavBar(analysis, team)
+    if (analysis == 'critical') {
+      crticalAnalysisForPlayer(player)
+    }
+    else if(analysis == 'goal') {
+      goalAnalysisForPlayer(player)
+    }
+    
+  </script>
 </head>
