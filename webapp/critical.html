@@ -1,27 +1,36 @@
 <html style="margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
 <body style="height:100%;width:100%;">
-	 <h1>
-      Please Select Analysis
-    </h1>
-	<nav id = "analysis bar">
-		<a href="critical.html">Critical Data</a>  |
-		<a href="goal.html">Goal Scored</a>  |
-		<a href="conceded.html">Goal Conceded</a>  |
-		<a href="facts.html">Goal Facts</a>  |
-	</nav>
-	<h3 id = "team nav heading"></h3>
-	<nav id = "team bar">
-	</nav>
-	<div id="goal-scored" style="height:40%;width:100%;"></div>
-	<div id="critical-scored" style="height:40%;width:100%;"></div>
+ <h1>
+  Please Select Analysis
+</h1>
+<nav id = "analysis bar">
+  <a href="critical.html">Critical Data</a>  |
+  <a href="goal.html">Goal Scored</a>  |
+  <a href="conceded.html">Goal Conceded</a>  |
+  <a href="facts.html">Goal Facts</a>  |
+</nav>
+<h3 id = "team nav heading"></h3>
+<nav id = "team bar">
+</nav>
+<div id="goal-scored" style="height:40%;width:100%;"></div>
+<div id="critical-scored" style="height:40%;width:100%;"></div>
 </body>
 </html>
 <head>
-	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-	<script type="text/javascript" src="critical_analysis.js"></script>
-	<script type="text/javascript" src="nav_bar.js"></script>
-	<script type="text/javascript">
-		plotCrtitcalDataLinePlot()
-		FillNavBar('critical')
-	</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HYRKG51N5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4HYRKG51N5');
+  </script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="critical_analysis.js"></script>
+  <script type="text/javascript" src="nav_bar.js"></script>
+  <script type="text/javascript">
+    plotCrtitcalDataLinePlot()
+    FillNavBar('critical')
+  </script>
 </head>
