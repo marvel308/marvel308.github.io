@@ -170,7 +170,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-10-18,Tottenham,West Ham,85’,Davinson Sánchez,Own Goal,West Ham
 2020-10-18,Tottenham,West Ham,90+4’,Manuel Lanzini,,West Ham
 2020-10-18,Leicester City,Aston Villa,90+1’,Ross Barkley,Assist:John McGinn,Aston Villa
-2020-10-19,Leeds United,Wolves,70’,Raúl Jiménez,Assist:Max Kilman,Wolves
 2020-10-23,Aston Villa,Leeds United,55’,Patrick Bamford,,Leeds United
 2020-10-23,Aston Villa,Leeds United,67’,Patrick Bamford,Assist:Mateusz Klich,Leeds United
 2020-10-23,Aston Villa,Leeds United,74’,Patrick Bamford,Assist:Hélder Costa,Leeds United
@@ -316,3 +315,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-12-06,Liverpool,Wolves,58’,Georginio Wijnaldum,Assist:Jordan Henderson,Liverpool
 2020-12-06,Liverpool,Wolves,67’,Joël Matip,Assist:Mohamed Salah,Liverpool
 2020-12-06,Liverpool,Wolves,78’,Nélson Semedo,Own Goal,Liverpool
+2020-12-07,Brighton,Southampton,26’,Pascal Groß,Penalty Kick,Brighton
+2020-12-07,Brighton,Southampton,45’,Jannik Vestergaard,Assist:James Ward-Prowse,Southampton
+2020-12-07,Brighton,Southampton,81’,Danny Ings,Penalty Kick,Southampton
