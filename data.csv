@@ -274,7 +274,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-11-28,Manchester City,Burnley,66’,Ferrán Torres,Assist:Gabriel Jesus,Manchester City
 2020-11-28,Manchester City,Burnley,69’,Riyad Mahrez,Assist:Phil Foden,Manchester City
 2020-11-28,Everton,Leeds United,79’,Raphael Dias Belloli,Assist:Jack Harrison,Leeds United
-2020-11-28,West Brom,Sheffield Utd,13’,Conor Gallagher,,West Brom
 2020-11-29,Southampton,Manchester Utd,23’,Jan Bednarek,Assist:James Ward-Prowse,Southampton
 2020-11-29,Southampton,Manchester Utd,33’,James Ward-Prowse,,Southampton
 2020-11-29,Southampton,Manchester Utd,59’,Bruno Fernandes,Assist:Edinson Cavani,Manchester Utd
@@ -364,3 +363,16 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-12-17,Sheffield Utd,Manchester Utd,26’,Marcus Rashford,Assist:Victor Lindelöf,Manchester Utd
 2020-12-17,Sheffield Utd,Manchester Utd,33’,Anthony Martial,,Manchester Utd
 2020-12-17,Sheffield Utd,Manchester Utd,51’,Marcus Rashford,Assist:Anthony Martial,Manchester Utd
+2020-12-19,Crystal Palace,Liverpool,3’,Takumi Minamino,Assist:Sadio Mané,Liverpool
+2020-12-19,Crystal Palace,Liverpool,35’,Sadio Mané,Assist:Roberto Firmino,Liverpool
+2020-12-19,Crystal Palace,Liverpool,44’,Roberto Firmino,Assist:Andrew Robertson,Liverpool
+2020-12-19,Crystal Palace,Liverpool,52’,Jordan Henderson,Assist:Trent Alexander-Arnold,Liverpool
+2020-12-19,Crystal Palace,Liverpool,68’,Roberto Firmino,Assist:Mohamed Salah,Liverpool
+2020-12-19,Crystal Palace,Liverpool,81’,Mohamed Salah,Assist:Joël Matip,Liverpool
+2020-12-19,Crystal Palace,Liverpool,84’,Mohamed Salah,Assist:Alex Oxlade-Chamberlain,Liverpool
+2020-12-19,Southampton,Manchester City,16’,Raheem Sterling,Assist:Kevin De Bruyne,Manchester City
+2020-12-19,Everton,Arsenal,22’,Rob Holding,Own Goal,Everton
+2020-12-19,Everton,Arsenal,45’,Yerry Mina,Assist:Gylfi Sigurðsson,Everton
+2020-12-19,Everton,Arsenal,35’,Nicolas Pépé,Penalty Kick,Arsenal
+2020-12-19,Newcastle Utd,Fulham,64’,Callum Wilson,Penalty Kick,Newcastle Utd
+2020-12-19,Newcastle Utd,Fulham,42’,Matt Ritchie,Own Goal,Fulham
