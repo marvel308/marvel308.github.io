@@ -274,6 +274,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-11-28,Manchester City,Burnley,66’,Ferrán Torres,Assist:Gabriel Jesus,Manchester City
 2020-11-28,Manchester City,Burnley,69’,Riyad Mahrez,Assist:Phil Foden,Manchester City
 2020-11-28,Everton,Leeds United,79’,Raphael Dias Belloli,Assist:Jack Harrison,Leeds United
+2020-11-28,West Brom,Sheffield Utd,13’,Conor Gallagher,,West Brom
 2020-11-29,Southampton,Manchester Utd,23’,Jan Bednarek,Assist:James Ward-Prowse,Southampton
 2020-11-29,Southampton,Manchester Utd,33’,James Ward-Prowse,,Southampton
 2020-11-29,Southampton,Manchester Utd,59’,Bruno Fernandes,Assist:Edinson Cavani,Manchester Utd
@@ -376,3 +377,18 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-12-19,Everton,Arsenal,35’,Nicolas Pépé,Penalty Kick,Arsenal
 2020-12-19,Newcastle Utd,Fulham,64’,Callum Wilson,Penalty Kick,Newcastle Utd
 2020-12-19,Newcastle Utd,Fulham,42’,Matt Ritchie,Own Goal,Fulham
+2020-12-20,Brighton,Sheffield Utd,87’,Danny Welbeck,,Brighton
+2020-12-20,Brighton,Sheffield Utd,63’,Jayden Bogle,Assist:David McGoldrick,Sheffield Utd
+2020-12-20,Tottenham,Leicester City,45+4’,Jamie Vardy,Penalty Kick,Leicester City
+2020-12-20,Tottenham,Leicester City,59’,Toby Alderweireld,Own Goal,Leicester City
+2020-12-20,Manchester Utd,Leeds United,2’,Scott McTominay,Assist:Bruno Fernandes,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,3’,Scott McTominay,Assist:Anthony Martial,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,20’,Bruno Fernandes,,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,37’,Victor Lindelöf,Assist:Anthony Martial,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,66’,Daniel James,Assist:Scott McTominay,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,70’,Bruno Fernandes,Penalty Kick,Manchester Utd
+2020-12-20,Manchester Utd,Leeds United,41’,Liam Cooper,Assist:Raphael Dias Belloli,Leeds United
+2020-12-20,Manchester Utd,Leeds United,73’,Stuart Dallas,Assist:Raphael Dias Belloli,Leeds United
+2020-12-20,West Brom,Aston Villa,5’,Anwar El Ghazi,Assist:Bertrand Traoré,Aston Villa
+2020-12-20,West Brom,Aston Villa,84’,Bertrand Traoré,Assist:Jack Grealish,Aston Villa
+2020-12-20,West Brom,Aston Villa,88’,Anwar El Ghazi,Penalty Kick,Aston Villa
