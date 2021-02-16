@@ -578,20 +578,20 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-03,Leeds United,Everton,48’,Raphael Dias Belloli,Assist:Patrick Bamford,Leeds United
 2021-02-03,Leeds United,Everton,9’,Gylfi Sigurðsson,Assist:Lucas Digne,Everton
 2021-02-03,Leeds United,Everton,41’,Dominic Calvert-Lewin,Assist:Ben Godfrey,Everton
+2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-03,Aston Villa,West Ham,81’,Ollie Watkins,Assist:Jack Grealish,Aston Villa
 2021-02-03,Aston Villa,West Ham,51’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-02-03,Aston Villa,West Ham,56’,Jesse Lingard,Assist:Michail Antonio,West Ham
 2021-02-03,Aston Villa,West Ham,83’,Jesse Lingard,Assist:Michail Antonio,West Ham
-2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-04,Tottenham,Chelsea,24’,Jorginho,Penalty Kick,Chelsea
 2021-02-06,Aston Villa,Arsenal,2’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
+2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
+2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Newcastle Utd,Southampton,16’,Joe Willock,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,26’,Miguel Almirón,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,45+4’,Miguel Almirón,,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,30’,Takumi Minamino,Assist:Ryan Bertrand,Southampton
 2021-02-06,Newcastle Utd,Southampton,48’,James Ward-Prowse,,Southampton
-2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
-2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Manchester Utd,Everton,24’,Edinson Cavani,Assist:Marcus Rashford,Manchester Utd
 2021-02-06,Manchester Utd,Everton,45’,Bruno Fernandes,Assist:Aaron Wan-Bissaka,Manchester Utd
 2021-02-06,Manchester Utd,Everton,70’,Scott McTominay,Assist:Luke Shaw,Manchester Utd
@@ -620,3 +620,16 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-13,Manchester City,Tottenham,23’,Rodri,Penalty Kick,Manchester City
 2021-02-13,Manchester City,Tottenham,50’,İlkay Gündoğan,Assist:Raheem Sterling,Manchester City
 2021-02-13,Manchester City,Tottenham,66’,İlkay Gündoğan,Assist:Ederson,Manchester City
+2021-02-14,Southampton,Wolves,25’,Danny Ings,Assist:Stuart Armstrong,Southampton
+2021-02-14,Southampton,Wolves,53’,Rúben Neves,Penalty Kick,Wolves
+2021-02-14,Southampton,Wolves,66’,Pedro Neto,Assist:Rúben Neves,Wolves
+2021-02-14,West Brom,Manchester Utd,2’,Mbaye Diagne,Assist:Conor Gallagher,West Brom
+2021-02-14,West Brom,Manchester Utd,44’,Bruno Fernandes,Assist:Luke Shaw,Manchester Utd
+2021-02-14,Arsenal,Leeds United,13’,Pierre-Emerick Aubameyang,Assist:Granit Xhaka,Arsenal
+2021-02-14,Arsenal,Leeds United,41’,Pierre-Emerick Aubameyang,Penalty Kick,Arsenal
+2021-02-14,Arsenal,Leeds United,45’,Héctor Bellerín,Assist:Dani Ceballos,Arsenal
+2021-02-14,Arsenal,Leeds United,47’,Pierre-Emerick Aubameyang,Assist:Emile Smith-Rowe,Arsenal
+2021-02-14,Arsenal,Leeds United,58’,Pascal Struijk,Assist:Raphael Dias Belloli,Leeds United
+2021-02-14,Arsenal,Leeds United,69’,Hélder Costa,Assist:Tyler Roberts,Leeds United
+2021-02-14,Everton,Fulham,48’,Josh Maja,Assist:Ola Aina,Fulham
+2021-02-14,Everton,Fulham,65’,Josh Maja,,Fulham
