@@ -156,6 +156,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-10-31,Liverpool,West Ham,42’,Mohamed Salah,Penalty Kick,Liverpool
 2020-10-31,Liverpool,West Ham,85’,Diogo Jota,Assist:Xherdan Shaqiri,Liverpool
 2020-10-31,Sheffield Utd,Manchester City,28’,Kyle Walker,Assist:Kevin De Bruyne,Manchester City
+2020-11-01,Aston Villa,Southampton,20’,Jannik Vestergaard,Assist:James Ward-Prowse,Southampton
+2020-11-01,Aston Villa,Southampton,33’,James Ward-Prowse,,Southampton
 2020-11-01,Manchester Utd,Arsenal,69’,Pierre-Emerick Aubameyang,Penalty Kick,Arsenal
 2020-11-01,Newcastle Utd,Everton,56’,Callum Wilson,Penalty Kick,Newcastle Utd
 2020-11-01,Newcastle Utd,Everton,84’,Callum Wilson,,Newcastle Utd
@@ -505,3 +507,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-15,Chelsea,Newcastle Utd,39’,Timo Werner,,Chelsea
 2021-02-15,West Ham,Sheffield Utd,41’,Declan Rice,Penalty Kick,West Ham
 2021-02-15,West Ham,Sheffield Utd,58’,Issa Diop,Assist:Aaron Cresswell,West Ham
+2021-02-17,Burnley,Fulham,49’,Ola Aina,Assist:Joachim Andersen,Fulham
+2021-02-17,Burnley,Fulham,52’,Ashley Barnes,Assist:Jay Rodriguez,Burnley
+2021-02-17,Everton,Manchester City,32’,Phil Foden,,Manchester City
+2021-02-17,Everton,Manchester City,37’,Richarlison,,Everton
+2021-02-17,Everton,Manchester City,63’,Riyad Mahrez,Assist:Bernardo Silva,Manchester City
+2021-02-17,Everton,Manchester City,77’,Bernardo Silva,Assist:Gabriel Jesus,Manchester City

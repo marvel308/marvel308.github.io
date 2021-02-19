@@ -199,6 +199,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2020-10-31,Liverpool,West Ham,42’,Mohamed Salah,Penalty Kick,Liverpool
 2020-10-31,Liverpool,West Ham,85’,Diogo Jota,Assist:Xherdan Shaqiri,Liverpool
 2020-10-31,Liverpool,West Ham,10’,Pablo Fornals,,West Ham
+2020-11-01,Aston Villa,Southampton,62’,Tyrone Mings,Assist:Jack Grealish,Aston Villa
+2020-11-01,Aston Villa,Southampton,90+3’,Ollie Watkins,Penalty Kick,Aston Villa
+2020-11-01,Aston Villa,Southampton,90+7’,Jack Grealish,Assist:Douglas Luiz,Aston Villa
+2020-11-01,Aston Villa,Southampton,20’,Jannik Vestergaard,Assist:James Ward-Prowse,Southampton
+2020-11-01,Aston Villa,Southampton,33’,James Ward-Prowse,,Southampton
+2020-11-01,Aston Villa,Southampton,45’,James Ward-Prowse,,Southampton
+2020-11-01,Aston Villa,Southampton,58’,Danny Ings,Assist:Stuart Armstrong,Southampton
 2020-11-01,Newcastle Utd,Everton,56’,Callum Wilson,Penalty Kick,Newcastle Utd
 2020-11-01,Newcastle Utd,Everton,84’,Callum Wilson,,Newcastle Utd
 2020-11-01,Newcastle Utd,Everton,90+1’,Dominic Calvert-Lewin,,Everton
@@ -631,3 +638,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-15,West Ham,Sheffield Utd,90+6’,Ryan Fredericks,Assist:Saïd Benrahma,West Ham
 2021-02-15,Chelsea,Newcastle Utd,31’,Olivier Giroud,,Chelsea
 2021-02-15,Chelsea,Newcastle Utd,39’,Timo Werner,,Chelsea
+2021-02-17,Burnley,Fulham,52’,Ashley Barnes,Assist:Jay Rodriguez,Burnley
+2021-02-17,Burnley,Fulham,49’,Ola Aina,Assist:Joachim Andersen,Fulham
+2021-02-17,Everton,Manchester City,37’,Richarlison,,Everton
+2021-02-17,Everton,Manchester City,32’,Phil Foden,,Manchester City
+2021-02-17,Everton,Manchester City,63’,Riyad Mahrez,Assist:Bernardo Silva,Manchester City
+2021-02-17,Everton,Manchester City,77’,Bernardo Silva,Assist:Gabriel Jesus,Manchester City
