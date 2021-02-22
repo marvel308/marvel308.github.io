@@ -578,20 +578,20 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-03,Leeds United,Everton,48’,Raphael Dias Belloli,Assist:Patrick Bamford,Leeds United
 2021-02-03,Leeds United,Everton,9’,Gylfi Sigurðsson,Assist:Lucas Digne,Everton
 2021-02-03,Leeds United,Everton,41’,Dominic Calvert-Lewin,Assist:Ben Godfrey,Everton
+2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-03,Aston Villa,West Ham,81’,Ollie Watkins,Assist:Jack Grealish,Aston Villa
 2021-02-03,Aston Villa,West Ham,51’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-02-03,Aston Villa,West Ham,56’,Jesse Lingard,Assist:Michail Antonio,West Ham
 2021-02-03,Aston Villa,West Ham,83’,Jesse Lingard,Assist:Michail Antonio,West Ham
-2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-04,Tottenham,Chelsea,24’,Jorginho,Penalty Kick,Chelsea
 2021-02-06,Aston Villa,Arsenal,2’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
-2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
-2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Newcastle Utd,Southampton,16’,Joe Willock,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,26’,Miguel Almirón,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,45+4’,Miguel Almirón,,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,30’,Takumi Minamino,Assist:Ryan Bertrand,Southampton
 2021-02-06,Newcastle Utd,Southampton,48’,James Ward-Prowse,,Southampton
+2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
+2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Manchester Utd,Everton,24’,Edinson Cavani,Assist:Marcus Rashford,Manchester Utd
 2021-02-06,Manchester Utd,Everton,45’,Bruno Fernandes,Assist:Aaron Wan-Bissaka,Manchester Utd
 2021-02-06,Manchester Utd,Everton,70’,Scott McTominay,Assist:Luke Shaw,Manchester Utd
@@ -645,3 +645,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-17,Everton,Manchester City,63’,Riyad Mahrez,Assist:Bernardo Silva,Manchester City
 2021-02-17,Everton,Manchester City,77’,Bernardo Silva,Assist:Gabriel Jesus,Manchester City
 2021-02-19,Wolves,Leeds United,64’,Illan Meslier,Own Goal,Wolves
+2021-02-20,Southampton,Chelsea,33’,Takumi Minamino,Assist:Nathan Redmond,Southampton
+2021-02-20,Southampton,Chelsea,54’,Mason Mount,Penalty Kick,Chelsea
+2021-02-20,Liverpool,Everton,3’,Richarlison,Assist:James Rodríguez,Everton
+2021-02-20,Liverpool,Everton,83’,Gylfi Sigurðsson,Penalty Kick,Everton
+2021-02-20,Fulham,Sheffield Utd,61’,Ademola Lookman,,Fulham
