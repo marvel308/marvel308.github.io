@@ -578,11 +578,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-03,Leeds United,Everton,48’,Raphael Dias Belloli,Assist:Patrick Bamford,Leeds United
 2021-02-03,Leeds United,Everton,9’,Gylfi Sigurðsson,Assist:Lucas Digne,Everton
 2021-02-03,Leeds United,Everton,41’,Dominic Calvert-Lewin,Assist:Ben Godfrey,Everton
-2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-03,Aston Villa,West Ham,81’,Ollie Watkins,Assist:Jack Grealish,Aston Villa
 2021-02-03,Aston Villa,West Ham,51’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-02-03,Aston Villa,West Ham,56’,Jesse Lingard,Assist:Michail Antonio,West Ham
 2021-02-03,Aston Villa,West Ham,83’,Jesse Lingard,Assist:Michail Antonio,West Ham
+2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-04,Tottenham,Chelsea,24’,Jorginho,Penalty Kick,Chelsea
 2021-02-06,Aston Villa,Arsenal,2’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
 2021-02-06,Newcastle Utd,Southampton,16’,Joe Willock,Assist:Allan Saint-Maximin,Newcastle Utd
@@ -844,3 +844,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-18,Manchester Utd,Burnley,50’,James Tarkowski,Assist:Ashley Westwood,Burnley
 2021-04-19,Leeds United,Liverpool,87’,Diego Llorente,Assist:Jack Harrison,Leeds United
 2021-04-19,Leeds United,Liverpool,31’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
+2021-04-21,Tottenham,Southampton,60’,Gareth Bale,,Tottenham
+2021-04-21,Tottenham,Southampton,90’,Son Heung-min,Penalty Kick,Tottenham
+2021-04-21,Tottenham,Southampton,30’,Danny Ings,Assist:James Ward-Prowse,Southampton
+2021-04-21,Aston Villa,Manchester City,1’,John McGinn,Assist:Ollie Watkins,Aston Villa
+2021-04-21,Aston Villa,Manchester City,22’,Phil Foden,Assist:Bernardo Silva,Manchester City
+2021-04-21,Aston Villa,Manchester City,40’,Rodri,Assist:Bernardo Silva,Manchester City
