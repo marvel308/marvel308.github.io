@@ -578,20 +578,20 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-03,Leeds United,Everton,48’,Raphael Dias Belloli,Assist:Patrick Bamford,Leeds United
 2021-02-03,Leeds United,Everton,9’,Gylfi Sigurðsson,Assist:Lucas Digne,Everton
 2021-02-03,Leeds United,Everton,41’,Dominic Calvert-Lewin,Assist:Ben Godfrey,Everton
+2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-03,Aston Villa,West Ham,81’,Ollie Watkins,Assist:Jack Grealish,Aston Villa
 2021-02-03,Aston Villa,West Ham,51’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-02-03,Aston Villa,West Ham,56’,Jesse Lingard,Assist:Michail Antonio,West Ham
 2021-02-03,Aston Villa,West Ham,83’,Jesse Lingard,Assist:Michail Antonio,West Ham
-2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-04,Tottenham,Chelsea,24’,Jorginho,Penalty Kick,Chelsea
 2021-02-06,Aston Villa,Arsenal,2’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
-2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
-2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Newcastle Utd,Southampton,16’,Joe Willock,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,26’,Miguel Almirón,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,45+4’,Miguel Almirón,,Newcastle Utd
 2021-02-06,Newcastle Utd,Southampton,30’,Takumi Minamino,Assist:Ryan Bertrand,Southampton
 2021-02-06,Newcastle Utd,Southampton,48’,James Ward-Prowse,,Southampton
+2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
+2021-02-06,Burnley,Brighton,36’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2021-02-06,Manchester Utd,Everton,24’,Edinson Cavani,Assist:Marcus Rashford,Manchester Utd
 2021-02-06,Manchester Utd,Everton,45’,Bruno Fernandes,Assist:Aaron Wan-Bissaka,Manchester Utd
 2021-02-06,Manchester Utd,Everton,70’,Scott McTominay,Assist:Luke Shaw,Manchester Utd
@@ -964,3 +964,15 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-05-16,West Brom,Liverpool,33’,Mohamed Salah,Assist:Sadio Mané,Liverpool
 2021-05-16,West Brom,Liverpool,90+5’,Alisson,Assist:Trent Alexander-Arnold,Liverpool
 2021-05-16,Everton,Sheffield Utd,7’,Daniel Jebbison,Assist:Jack Robinson,Sheffield Utd
+2021-05-18,Manchester Utd,Fulham,15’,Edinson Cavani,Assist:Bruno Fernandes,Manchester Utd
+2021-05-18,Manchester Utd,Fulham,76’,Joe Bryan,Assist:Bobby Reid,Fulham
+2021-05-18,Southampton,Leeds United,73’,Patrick Bamford,Assist:Rodrigo,Leeds United
+2021-05-18,Southampton,Leeds United,90+5’,Tyler Roberts,,Leeds United
+2021-05-18,Brighton,Manchester City,50’,Leandro Trossard,,Brighton
+2021-05-18,Brighton,Manchester City,72’,Adam Webster,Assist:Pascal Groß,Brighton
+2021-05-18,Brighton,Manchester City,76’,Dan Burn,,Brighton
+2021-05-18,Brighton,Manchester City,2’,İlkay Gündoğan,Assist:Riyad Mahrez,Manchester City
+2021-05-18,Brighton,Manchester City,48’,Phil Foden,,Manchester City
+2021-05-18,Chelsea,Leicester City,47’,Antonio Rüdiger,,Chelsea
+2021-05-18,Chelsea,Leicester City,66’,Jorginho,Penalty Kick,Chelsea
+2021-05-18,Chelsea,Leicester City,76’,Kelechi Iheanacho,Assist:Wilfred Ndidi,Leicester City
