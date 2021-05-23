@@ -578,11 +578,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-02-03,Leeds United,Everton,48’,Raphael Dias Belloli,Assist:Patrick Bamford,Leeds United
 2021-02-03,Leeds United,Everton,9’,Gylfi Sigurðsson,Assist:Lucas Digne,Everton
 2021-02-03,Leeds United,Everton,41’,Dominic Calvert-Lewin,Assist:Ben Godfrey,Everton
-2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-03,Aston Villa,West Ham,81’,Ollie Watkins,Assist:Jack Grealish,Aston Villa
 2021-02-03,Aston Villa,West Ham,51’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-02-03,Aston Villa,West Ham,56’,Jesse Lingard,Assist:Michail Antonio,West Ham
 2021-02-03,Aston Villa,West Ham,83’,Jesse Lingard,Assist:Michail Antonio,West Ham
+2021-02-03,Liverpool,Brighton,56’,Steven Alzate,Assist:Leandro Trossard,Brighton
 2021-02-04,Tottenham,Chelsea,24’,Jorginho,Penalty Kick,Chelsea
 2021-02-06,Aston Villa,Arsenal,2’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
 2021-02-06,Burnley,Brighton,53’,Jóhann Berg Guðmundsson,,Burnley
@@ -782,13 +782,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-04,Newcastle Utd,Tottenham,85’,Joe Willock,,Newcastle Utd
 2021-04-04,Newcastle Utd,Tottenham,30’,Harry Kane,,Tottenham
 2021-04-04,Newcastle Utd,Tottenham,34’,Harry Kane,Assist:Tanguy Ndombele,Tottenham
-2021-04-04,Aston Villa,Fulham,78’,Trézéguet,Assist:Tyrone Mings,Aston Villa
-2021-04-04,Aston Villa,Fulham,81’,Trézéguet,Assist:Keinan Davis,Aston Villa
-2021-04-04,Aston Villa,Fulham,87’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
-2021-04-04,Aston Villa,Fulham,61’,Aleksandar Mitrović,,Fulham
-2021-04-04,Manchester Utd,Brighton,62’,Marcus Rashford,Assist:Bruno Fernandes,Manchester Utd
-2021-04-04,Manchester Utd,Brighton,83’,Mason Greenwood,Assist:Paul Pogba,Manchester Utd
-2021-04-04,Manchester Utd,Brighton,13’,Danny Welbeck,,Brighton
 2021-04-05,Everton,Crystal Palace,56’,James Rodríguez,Assist:Séamus Coleman,Everton
 2021-04-05,Everton,Crystal Palace,86’,Michy Batshuayi,Assist:Jeffrey Schlupp,Crystal Palace
 2021-04-05,Wolves,West Ham,44’,Leander Dendoncker,Assist:Adama Traoré,Wolves
@@ -796,7 +789,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-05,Wolves,West Ham,6’,Jesse Lingard,Assist:Vladimír Coufal,West Ham
 2021-04-05,Wolves,West Ham,14’,Pablo Fornals,Assist:Arthur Masuaku,West Ham
 2021-04-05,Wolves,West Ham,38’,Jarrod Bowen,Assist:Jesse Lingard,West Ham
-2021-04-09,Fulham,Wolves,90+2’,Adama Traoré,Assist:Fábio Silva,Wolves
 2021-04-10,Manchester City,Leeds United,76’,Ferrán Torres,Assist:Bernardo Silva,Manchester City
 2021-04-10,Manchester City,Leeds United,42’,Stuart Dallas,Assist:Patrick Bamford,Leeds United
 2021-04-10,Manchester City,Leeds United,90+1’,Stuart Dallas,Assist:Ezgjan Alioski,Leeds United
@@ -838,10 +830,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-17,Wolves,Sheffield Utd,59’,Willian José,Assist:Adama Traoré,Wolves
 2021-04-18,Arsenal,Fulham,90+7’,Eddie Nketiah,,Arsenal
 2021-04-18,Arsenal,Fulham,59’,Josh Maja,Penalty Kick,Fulham
-2021-04-18,Manchester Utd,Burnley,48’,Mason Greenwood,Assist:Marcus Rashford,Manchester Utd
-2021-04-18,Manchester Utd,Burnley,84’,Mason Greenwood,Assist:Paul Pogba,Manchester Utd
-2021-04-18,Manchester Utd,Burnley,90+3’,Edinson Cavani,Assist:Donny van de Beek,Manchester Utd
-2021-04-18,Manchester Utd,Burnley,50’,James Tarkowski,Assist:Ashley Westwood,Burnley
 2021-04-19,Leeds United,Liverpool,87’,Diego Llorente,Assist:Jack Harrison,Leeds United
 2021-04-19,Leeds United,Liverpool,31’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-04-21,Tottenham,Southampton,60’,Gareth Bale,,Tottenham
@@ -976,10 +964,10 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-05-18,Chelsea,Leicester City,47’,Antonio Rüdiger,,Chelsea
 2021-05-18,Chelsea,Leicester City,66’,Jorginho,Penalty Kick,Chelsea
 2021-05-18,Chelsea,Leicester City,76’,Kelechi Iheanacho,Assist:Wilfred Ndidi,Leicester City
+2021-05-19,Newcastle Utd,Sheffield Utd,45+4’,Joe Willock,Assist:Jacob Murphy,Newcastle Utd
 2021-05-19,Tottenham,Aston Villa,8’,Steven Bergwijn,,Tottenham
 2021-05-19,Tottenham,Aston Villa,20’,Sergio Reguilón,Own Goal,Aston Villa
 2021-05-19,Tottenham,Aston Villa,39’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
-2021-05-19,Newcastle Utd,Sheffield Utd,45+4’,Joe Willock,Assist:Jacob Murphy,Newcastle Utd
 2021-05-19,Everton,Wolves,48’,Richarlison,Assist:Gylfi Sigurðsson,Everton
 2021-05-19,Crystal Palace,Arsenal,62’,Christian Benteke,Assist:Andros Townsend,Crystal Palace
 2021-05-19,Crystal Palace,Arsenal,35’,Nicolas Pépé,Assist:Kieran Tierney,Arsenal
