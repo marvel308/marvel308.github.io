@@ -617,6 +617,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-03,Leeds United,Sheffield Utd,49’,Phil Jagielka,Own Goal,Leeds United
 2021-04-03,Leicester City,Manchester City,58’,Benjamin Mendy,,Manchester City
 2021-04-03,Leicester City,Manchester City,74’,Gabriel Jesus,Assist:Raheem Sterling,Manchester City
+2021-04-04,Aston Villa,Fulham,61’,Aleksandar Mitrović,,Fulham
+2021-04-04,Aston Villa,Fulham,78’,Trézéguet,Assist:Tyrone Mings,Aston Villa
+2021-04-04,Aston Villa,Fulham,81’,Trézéguet,Assist:Keinan Davis,Aston Villa
+2021-04-04,Aston Villa,Fulham,87’,Ollie Watkins,Assist:Bertrand Traoré,Aston Villa
+2021-04-04,Manchester Utd,Brighton,13’,Danny Welbeck,,Brighton
+2021-04-04,Manchester Utd,Brighton,62’,Marcus Rashford,Assist:Bruno Fernandes,Manchester Utd
+2021-04-04,Manchester Utd,Brighton,83’,Mason Greenwood,Assist:Paul Pogba,Manchester Utd
 2021-04-04,Newcastle Utd,Tottenham,28’,Joelinton,Assist:Sean Longstaff,Newcastle Utd
 2021-04-04,Newcastle Utd,Tottenham,30’,Harry Kane,,Tottenham
 2021-04-04,Newcastle Utd,Tottenham,34’,Harry Kane,Assist:Tanguy Ndombele,Tottenham
@@ -631,6 +638,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-05,Wolves,West Ham,38’,Jarrod Bowen,Assist:Jesse Lingard,West Ham
 2021-04-05,Wolves,West Ham,68’,Fábio Silva,Assist:Pedro Neto,Wolves
 2021-04-05,Wolves,West Ham,6’,Jesse Lingard,Assist:Vladimír Coufal,West Ham
+2021-04-09,Fulham,Wolves,90+2’,Adama Traoré,Assist:Fábio Silva,Wolves
 2021-04-10,Crystal Palace,Chelsea,10’,Christian Pulisic,Assist:Kai Havertz,Chelsea
 2021-04-10,Crystal Palace,Chelsea,30’,Kurt Zouma,Assist:Mason Mount,Chelsea
 2021-04-10,Crystal Palace,Chelsea,78’,Christian Pulisic,,Chelsea
@@ -664,6 +672,10 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-04-17,Wolves,Sheffield Utd,59’,Willian José,Assist:Adama Traoré,Wolves
 2021-04-18,Arsenal,Fulham,59’,Josh Maja,Penalty Kick,Fulham
 2021-04-18,Arsenal,Fulham,90+7’,Eddie Nketiah,,Arsenal
+2021-04-18,Manchester Utd,Burnley,48’,Mason Greenwood,Assist:Marcus Rashford,Manchester Utd
+2021-04-18,Manchester Utd,Burnley,50’,James Tarkowski,Assist:Ashley Westwood,Burnley
+2021-04-18,Manchester Utd,Burnley,84’,Mason Greenwood,Assist:Paul Pogba,Manchester Utd
+2021-04-18,Manchester Utd,Burnley,90+3’,Edinson Cavani,Assist:Donny van de Beek,Manchester Utd
 2021-04-19,Leeds United,Liverpool,31’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-04-19,Leeds United,Liverpool,87’,Diego Llorente,Assist:Jack Harrison,Leeds United
 2021-04-21,Aston Villa,Manchester City,1’,John McGinn,Assist:Ollie Watkins,Aston Villa
@@ -795,3 +807,27 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-05-19,West Brom,West Ham,45+1’,Tomáš Souček,Assist:Saïd Benrahma,West Ham
 2021-05-19,West Brom,West Ham,82’,Angelo Ogbonna,Assist:Aaron Cresswell,West Ham
 2021-05-19,West Brom,West Ham,88’,Michail Antonio,Assist:Jesse Lingard,West Ham
+2021-05-23,Arsenal,Brighton,49’,Nicolas Pépé,Assist:Calum Chambers,Arsenal
+2021-05-23,Arsenal,Brighton,60’,Nicolas Pépé,Assist:Martin Ødegaard,Arsenal
+2021-05-23,Aston Villa,Chelsea,43’,Bertrand Traoré,Assist:Matt Targett,Aston Villa
+2021-05-23,Aston Villa,Chelsea,52’,Anwar El Ghazi,Penalty Kick,Aston Villa
+2021-05-23,Fulham,Newcastle Utd,23’,Joe Willock,,Newcastle Utd
+2021-05-23,Fulham,Newcastle Utd,88’,Fabian Schär,Penalty Kick,Newcastle Utd
+2021-05-23,Leeds United,West Brom,17’,Rodrigo,Assist:Raphael Dias Belloli,Leeds United
+2021-05-23,Leeds United,West Brom,42’,Kalvin Phillips,,Leeds United
+2021-05-23,Leicester City,Tottenham,18’,Jamie Vardy,Penalty Kick,Leicester City
+2021-05-23,Leicester City,Tottenham,41’,Harry Kane,,Tottenham
+2021-05-23,Leicester City,Tottenham,52’,Jamie Vardy,Penalty Kick,Leicester City
+2021-05-23,Leicester City,Tottenham,76’,Kasper Schmeichel,Own Goal,Tottenham
+2021-05-23,Leicester City,Tottenham,87’,Gareth Bale,Assist:Harry Kane,Tottenham
+2021-05-23,Leicester City,Tottenham,90+6’,Gareth Bale,,Tottenham
+2021-05-23,Liverpool,Crystal Palace,36’,Sadio Mané,Assist:Roberto Firmino,Liverpool
+2021-05-23,Liverpool,Crystal Palace,74’,Sadio Mané,Assist:Mohamed Salah,Liverpool
+2021-05-23,Manchester City,Everton,11’,Kevin De Bruyne,Assist:Riyad Mahrez,Manchester City
+2021-05-23,Manchester City,Everton,14’,Gabriel Jesus,Assist:Kevin De Bruyne,Manchester City
+2021-05-23,Sheffield Utd,Burnley,24’,David McGoldrick,Assist:Enda Stevens,Sheffield Utd
+2021-05-23,West Ham,Southampton,30’,Pablo Fornals,,West Ham
+2021-05-23,West Ham,Southampton,33’,Pablo Fornals,Assist:Vladimír Coufal,West Ham
+2021-05-23,Wolves,Manchester Utd,13’,Anthony Elanga,Assist:Daniel James,Manchester Utd
+2021-05-23,Wolves,Manchester Utd,39’,Nélson Semedo,Assist:Fábio Silva,Wolves
+2021-05-23,Wolves,Manchester Utd,45+4’,Juan Mata,Penalty Kick,Manchester Utd
