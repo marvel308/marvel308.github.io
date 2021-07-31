@@ -999,11 +999,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-05-23,Leeds United,West Brom,42’,Kalvin Phillips,,Leeds United
 2021-05-23,Leeds United,West Brom,79’,Patrick Bamford,Penalty Kick,Leeds United
 2021-05-23,Leeds United,West Brom,90’,Hal Robson-Kanu,,West Brom
-2021-05-23,Manchester City,Everton,11’,Kevin De Bruyne,Assist:Riyad Mahrez,Manchester City
-2021-05-23,Manchester City,Everton,14’,Gabriel Jesus,Assist:Kevin De Bruyne,Manchester City
-2021-05-23,Manchester City,Everton,53’,Phil Foden,Assist:Raheem Sterling,Manchester City
-2021-05-23,Manchester City,Everton,71’,Sergio Agüero,Assist:Fernandinho,Manchester City
-2021-05-23,Manchester City,Everton,76’,Sergio Agüero,Assist:Fernandinho,Manchester City
 2021-05-23,Leicester City,Tottenham,18’,Jamie Vardy,Penalty Kick,Leicester City
 2021-05-23,Leicester City,Tottenham,52’,Jamie Vardy,Penalty Kick,Leicester City
 2021-05-23,Leicester City,Tottenham,41’,Harry Kane,,Tottenham
@@ -1013,6 +1008,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-05-23,Aston Villa,Chelsea,43’,Bertrand Traoré,Assist:Matt Targett,Aston Villa
 2021-05-23,Aston Villa,Chelsea,52’,Anwar El Ghazi,Penalty Kick,Aston Villa
 2021-05-23,Aston Villa,Chelsea,70’,Ben Chilwell,Assist:Christian Pulisic,Chelsea
+2021-05-23,Manchester City,Everton,11’,Kevin De Bruyne,Assist:Riyad Mahrez,Manchester City
+2021-05-23,Manchester City,Everton,14’,Gabriel Jesus,Assist:Kevin De Bruyne,Manchester City
+2021-05-23,Manchester City,Everton,53’,Phil Foden,Assist:Raheem Sterling,Manchester City
+2021-05-23,Manchester City,Everton,71’,Sergio Agüero,Assist:Fernandinho,Manchester City
+2021-05-23,Manchester City,Everton,76’,Sergio Agüero,Assist:Fernandinho,Manchester City
 2021-05-23,West Ham,Southampton,30’,Pablo Fornals,,West Ham
 2021-05-23,West Ham,Southampton,33’,Pablo Fornals,Assist:Vladimír Coufal,West Ham
 2021-05-23,West Ham,Southampton,86’,Declan Rice,Assist:Pablo Fornals,West Ham
