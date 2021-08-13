@@ -65,7 +65,7 @@ function getMatchFacts(document) {
  * @return {Object[]} All match metadata.
  */
 function getAllGames(document) {
-  const div = document.getElementById('sched_10728_1');
+  const div = document.getElementById('sched_11160_1');
   const hrefss = [];
   for (let i = 0; i< div.rows.length; i++) {
     if (div.rows[i].cells[12].firstElementChild) {
