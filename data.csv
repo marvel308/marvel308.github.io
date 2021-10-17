@@ -88,9 +88,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-11,Crystal Palace,Tottenham,84’,Odsonne Édouard,Assist:Wilfried Zaha,Crystal Palace
 2021-09-11,Crystal Palace,Tottenham,90+2’,Odsonne Édouard,Assist:Conor Gallagher,Crystal Palace
 2021-09-11,Arsenal,Norwich City,66’,Pierre-Emerick Aubameyang,Assist:Nicolas Pépé,Arsenal
-2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Watford,Wolves,74’,Francisco Sierralta,Own Goal,Wolves
 2021-09-11,Watford,Wolves,83’,Hwang Hee-chan,,Wolves
+2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Leicester City,Manchester City,62’,Bernardo Silva,,Manchester City
 2021-09-11,Manchester Utd,Newcastle Utd,45+2’,Cristiano Ronaldo,,Manchester Utd
 2021-09-11,Manchester Utd,Newcastle Utd,62’,Cristiano Ronaldo,Assist:Luke Shaw,Manchester Utd
@@ -181,3 +181,23 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-03,Liverpool,Manchester City,76’,Mohamed Salah,Assist:Curtis Jones,Liverpool
 2021-10-03,Liverpool,Manchester City,69’,Phil Foden,Assist:Gabriel Jesus,Manchester City
 2021-10-03,Liverpool,Manchester City,81’,Kevin De Bruyne,,Manchester City
+2021-10-16,Watford,Liverpool,9’,Sadio Mané,Assist:Mohamed Salah,Liverpool
+2021-10-16,Watford,Liverpool,37’,Roberto Firmino,Assist:James Milner,Liverpool
+2021-10-16,Watford,Liverpool,52’,Roberto Firmino,,Liverpool
+2021-10-16,Watford,Liverpool,54’,Mohamed Salah,Assist:Roberto Firmino,Liverpool
+2021-10-16,Watford,Liverpool,90+1’,Roberto Firmino,Assist:Neco Williams,Liverpool
+2021-10-16,Leicester City,Manchester Utd,31’,Youri Tielemans,Assist:Kelechi Iheanacho,Leicester City
+2021-10-16,Leicester City,Manchester Utd,78’,Çağlar Söyüncü,Assist:Ayoze Pérez,Leicester City
+2021-10-16,Leicester City,Manchester Utd,83’,Jamie Vardy,Assist:Ayoze Pérez,Leicester City
+2021-10-16,Leicester City,Manchester Utd,90+1’,Patson Daka,,Leicester City
+2021-10-16,Leicester City,Manchester Utd,19’,Mason Greenwood,Assist:Bruno Fernandes,Manchester Utd
+2021-10-16,Leicester City,Manchester Utd,82’,Marcus Rashford,Assist:Victor Lindelöf,Manchester Utd
+2021-10-16,Southampton,Leeds United,53’,Armando Broja,Assist:Nathan Redmond,Southampton
+2021-10-16,Manchester City,Burnley,12’,Bernardo Silva,,Manchester City
+2021-10-16,Manchester City,Burnley,70’,Kevin De Bruyne,,Manchester City
+2021-10-16,Aston Villa,Wolves,48’,Danny Ings,Assist:John McGinn,Aston Villa
+2021-10-16,Aston Villa,Wolves,68’,John McGinn,,Aston Villa
+2021-10-16,Aston Villa,Wolves,80’,Romain Saïss,Assist:Daniel Podence,Wolves
+2021-10-16,Aston Villa,Wolves,85’,Conor Coady,Assist:Leander Dendoncker,Wolves
+2021-10-16,Aston Villa,Wolves,90+5’,Rúben Neves,,Wolves
+2021-10-16,Brentford,Chelsea,45’,Ben Chilwell,,Chelsea
