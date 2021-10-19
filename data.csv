@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
+2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -207,3 +207,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-17,Newcastle Utd,Tottenham,17’,Tanguy Ndombele,Assist:Sergio Reguilón,Tottenham
 2021-10-17,Newcastle Utd,Tottenham,22’,Harry Kane,Assist:Pierre Højbjerg,Tottenham
 2021-10-17,Newcastle Utd,Tottenham,45+4’,Son Heung-min,Assist:Harry Kane,Tottenham
+2021-10-18,Arsenal,Crystal Palace,8’,Pierre-Emerick Aubameyang,,Arsenal
+2021-10-18,Arsenal,Crystal Palace,90+5’,Alexandre Lacazette,,Arsenal
+2021-10-18,Arsenal,Crystal Palace,50’,Christian Benteke,Assist:Jordan Ayew,Crystal Palace
+2021-10-18,Arsenal,Crystal Palace,73’,Odsonne Édouard,Assist:Michael Olise,Crystal Palace
