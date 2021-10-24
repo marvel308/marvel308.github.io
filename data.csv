@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
+2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -215,3 +215,30 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-22,Arsenal,Aston Villa,45+6’,Pierre-Emerick Aubameyang,,Arsenal
 2021-10-22,Arsenal,Aston Villa,56’,Emile Smith-Rowe,Assist:Pierre-Emerick Aubameyang,Arsenal
 2021-10-22,Arsenal,Aston Villa,82’,Jacob Ramsey,Assist:Leon Bailey,Aston Villa
+2021-10-23,Chelsea,Norwich City,8’,Mason Mount,Assist:Jorginho,Chelsea
+2021-10-23,Chelsea,Norwich City,18’,Callum Hudson-Odoi,Assist:Mateo Kovačić,Chelsea
+2021-10-23,Chelsea,Norwich City,42’,Reece James,Assist:Mason Mount,Chelsea
+2021-10-23,Chelsea,Norwich City,57’,Ben Chilwell,Assist:Mateo Kovačić,Chelsea
+2021-10-23,Chelsea,Norwich City,62’,Max Aarons,Own Goal,Chelsea
+2021-10-23,Chelsea,Norwich City,85’,Mason Mount,Penalty Kick,Chelsea
+2021-10-23,Chelsea,Norwich City,90+1’,Mason Mount,Assist:Ruben Loftus-Cheek,Chelsea
+2021-10-23,Leeds United,Wolves,90+4’,Rodrigo,Penalty Kick,Leeds United
+2021-10-23,Leeds United,Wolves,10’,Hwang Hee-chan,,Wolves
+2021-10-23,Southampton,Burnley,41’,Valentino Livramento,Assist:Nathan Redmond,Southampton
+2021-10-23,Southampton,Burnley,50’,Armando Broja,Assist:Ibrahima Diallo,Southampton
+2021-10-23,Southampton,Burnley,13’,Maxwel Cornet,Assist:Matthew Lowton,Burnley
+2021-10-23,Southampton,Burnley,57’,Maxwel Cornet,Assist:Ashley Westwood,Burnley
+2021-10-23,Everton,Watford,3’,Tom Davies,Assist:Demarai Gray,Everton
+2021-10-23,Everton,Watford,63’,Richarlison,Assist:Michael Keane,Everton
+2021-10-23,Everton,Watford,13’,Joshua King,Assist:Craig Cathcart,Watford
+2021-10-23,Everton,Watford,78’,Juraj Kucka,Assist:Cucho,Watford
+2021-10-23,Everton,Watford,80’,Joshua King,Assist:Emmanuel Dennis,Watford
+2021-10-23,Everton,Watford,86’,Joshua King,Assist:Emmanuel Dennis,Watford
+2021-10-23,Everton,Watford,90+1’,Emmanuel Dennis,Assist:João Pedro,Watford
+2021-10-23,Crystal Palace,Newcastle Utd,56’,Christian Benteke,Assist:Tyrick Mitchell,Crystal Palace
+2021-10-23,Crystal Palace,Newcastle Utd,65’,Callum Wilson,Assist:Emil Krafth,Newcastle Utd
+2021-10-23,Brighton,Manchester City,81’,Alexis Mac Allister,Penalty Kick,Brighton
+2021-10-23,Brighton,Manchester City,13’,İlkay Gündoğan,Assist:Bernardo Silva,Manchester City
+2021-10-23,Brighton,Manchester City,28’,Phil Foden,Assist:Jack Grealish,Manchester City
+2021-10-23,Brighton,Manchester City,31’,Phil Foden,Assist:Gabriel Jesus,Manchester City
+2021-10-23,Brighton,Manchester City,90+5’,Riyad Mahrez,Assist:Phil Foden,Manchester City
