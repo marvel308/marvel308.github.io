@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
+2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -262,11 +262,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,81’,Jorginho,Penalty Kick,Chelsea
+2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
-2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,64’,Edinson Cavani,Assist:Cristiano Ronaldo,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,86’,Marcus Rashford,Assist:Nemanja Matić,Manchester Utd
