@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
+2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -358,3 +358,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-28,Manchester City,West Ham,90+4’,Manuel Lanzini,,West Ham
 2021-11-28,Chelsea,Manchester Utd,69’,Jorginho,Penalty Kick,Chelsea
 2021-11-28,Chelsea,Manchester Utd,50’,Jadon Sancho,,Manchester Utd
+2021-11-30,Newcastle Utd,Norwich City,61’,Callum Wilson,Penalty Kick,Newcastle Utd
+2021-11-30,Newcastle Utd,Norwich City,79’,Teemu Pukki,Assist:Dimitris Giannoulis,Norwich City
+2021-11-30,Leeds United,Crystal Palace,90+3’,Raphael Dias Belloli,Penalty Kick,Leeds United
