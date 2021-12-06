@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
+2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -262,11 +262,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,81’,Jorginho,Penalty Kick,Chelsea
-2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
+2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,64’,Edinson Cavani,Assist:Cristiano Ronaldo,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,86’,Marcus Rashford,Assist:Nemanja Matić,Manchester Utd
@@ -304,29 +304,29 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-20,Leicester City,Chelsea,14’,Antonio Rüdiger,Assist:Ben Chilwell,Chelsea
 2021-11-20,Leicester City,Chelsea,28’,N'Golo Kanté,Assist:Reece James,Chelsea
 2021-11-20,Leicester City,Chelsea,71’,Christian Pulisic,Assist:Hakim Ziyech,Chelsea
-2021-11-20,Aston Villa,Brighton,84’,Ollie Watkins,Assist:Ashley Young,Aston Villa
-2021-11-20,Aston Villa,Brighton,89’,Tyrone Mings,,Aston Villa
 2021-11-20,Burnley,Crystal Palace,19’,Ben Mee,Assist:Ashley Westwood,Burnley
 2021-11-20,Burnley,Crystal Palace,27’,Chris Wood,Assist:James Tarkowski,Burnley
 2021-11-20,Burnley,Crystal Palace,49’,Maxwel Cornet,Assist:James Tarkowski,Burnley
 2021-11-20,Burnley,Crystal Palace,8’,Christian Benteke,Assist:Joachim Andersen,Crystal Palace
 2021-11-20,Burnley,Crystal Palace,36’,Christian Benteke,Assist:Conor Gallagher,Crystal Palace
 2021-11-20,Burnley,Crystal Palace,42’,Marc Guéhi,,Crystal Palace
+2021-11-20,Aston Villa,Brighton,84’,Ollie Watkins,Assist:Ashley Young,Aston Villa
+2021-11-20,Aston Villa,Brighton,89’,Tyrone Mings,,Aston Villa
 2021-11-20,Norwich City,Southampton,7’,Teemu Pukki,Assist:Max Aarons,Norwich City
 2021-11-20,Norwich City,Southampton,79’,Grant Hanley,Assist:Billy Gilmour,Norwich City
 2021-11-20,Norwich City,Southampton,4’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-11-20,Wolves,West Ham,58’,Raúl Jiménez,Assist:Daniel Podence,Wolves
+2021-11-20,Watford,Manchester Utd,28’,Joshua King,Assist:Emmanuel Dennis,Watford
+2021-11-20,Watford,Manchester Utd,44’,Ismaila Sarr,Assist:Kiko Femenía,Watford
+2021-11-20,Watford,Manchester Utd,90+2’,João Pedro,Assist:Emmanuel Dennis,Watford
+2021-11-20,Watford,Manchester Utd,90+6’,Emmanuel Dennis,Assist:Ben Foster,Watford
+2021-11-20,Watford,Manchester Utd,50’,Donny van de Beek,Assist:Cristiano Ronaldo,Manchester Utd
 2021-11-20,Newcastle Utd,Brentford,10’,Jamaal Lascelles,Assist:Matt Ritchie,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,39’,Joelinton,,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,75’,Allan Saint-Maximin,Assist:Ryan Fraser,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,11’,Ivan Toney,Assist:Sergi Canós,Brentford
 2021-11-20,Newcastle Utd,Brentford,31’,Rico Henry,Assist:Sergi Canós,Brentford
 2021-11-20,Newcastle Utd,Brentford,61’,Jamaal Lascelles,Own Goal,Brentford
-2021-11-20,Watford,Manchester Utd,28’,Joshua King,Assist:Emmanuel Dennis,Watford
-2021-11-20,Watford,Manchester Utd,44’,Ismaila Sarr,Assist:Kiko Femenía,Watford
-2021-11-20,Watford,Manchester Utd,90+2’,João Pedro,Assist:Emmanuel Dennis,Watford
-2021-11-20,Watford,Manchester Utd,90+6’,Emmanuel Dennis,Assist:Ben Foster,Watford
-2021-11-20,Watford,Manchester Utd,50’,Donny van de Beek,Assist:Cristiano Ronaldo,Manchester Utd
 2021-11-20,Liverpool,Arsenal,39’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-11-20,Liverpool,Arsenal,52’,Diogo Jota,,Liverpool
 2021-11-20,Liverpool,Arsenal,73’,Mohamed Salah,Assist:Sadio Mané,Liverpool
@@ -385,3 +385,16 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-02,Manchester Utd,Arsenal,70’,Cristiano Ronaldo,Penalty Kick,Manchester Utd
 2021-12-02,Manchester Utd,Arsenal,13’,Emile Smith-Rowe,Assist:Mohamed Elneny,Arsenal
 2021-12-02,Manchester Utd,Arsenal,54’,Martin Ødegaard,Assist:Martinelli,Arsenal
+2021-12-04,West Ham,Chelsea,40’,Manuel Lanzini,Penalty Kick,West Ham
+2021-12-04,West Ham,Chelsea,56’,Jarrod Bowen,Assist:Vladimír Coufal,West Ham
+2021-12-04,West Ham,Chelsea,87’,Arthur Masuaku,Assist:Michail Antonio,West Ham
+2021-12-04,West Ham,Chelsea,28’,Thiago Silva,Assist:Mason Mount,Chelsea
+2021-12-04,West Ham,Chelsea,44’,Mason Mount,Assist:Hakim Ziyech,Chelsea
+2021-12-04,Newcastle Utd,Burnley,40’,Callum Wilson,Assist:Fabian Schär,Newcastle Utd
+2021-12-04,Southampton,Brighton,29’,Armando Broja,Assist:Nathan Redmond,Southampton
+2021-12-04,Southampton,Brighton,90+8’,Neal Maupay,Assist:Jakub Moder,Brighton
+2021-12-04,Wolves,Liverpool,90+4’,Divock Origi,Assist:Mohamed Salah,Liverpool
+2021-12-04,Watford,Manchester City,74’,Cucho,,Watford
+2021-12-04,Watford,Manchester City,4’,Raheem Sterling,Assist:Phil Foden,Manchester City
+2021-12-04,Watford,Manchester City,31’,Bernardo Silva,,Manchester City
+2021-12-04,Watford,Manchester City,63’,Bernardo Silva,Assist:Kyle Walker,Manchester City
