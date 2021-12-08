@@ -88,9 +88,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-11,Crystal Palace,Tottenham,84’,Odsonne Édouard,Assist:Wilfried Zaha,Crystal Palace
 2021-09-11,Crystal Palace,Tottenham,90+2’,Odsonne Édouard,Assist:Conor Gallagher,Crystal Palace
 2021-09-11,Arsenal,Norwich City,66’,Pierre-Emerick Aubameyang,Assist:Nicolas Pépé,Arsenal
+2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Watford,Wolves,74’,Francisco Sierralta,Own Goal,Wolves
 2021-09-11,Watford,Wolves,83’,Hwang Hee-chan,,Wolves
-2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Leicester City,Manchester City,62’,Bernardo Silva,,Manchester City
 2021-09-11,Manchester Utd,Newcastle Utd,45+2’,Cristiano Ronaldo,,Manchester Utd
 2021-09-11,Manchester Utd,Newcastle Utd,62’,Cristiano Ronaldo,Assist:Luke Shaw,Manchester Utd
@@ -262,11 +262,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,81’,Jorginho,Penalty Kick,Chelsea
-2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
+2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,64’,Edinson Cavani,Assist:Cristiano Ronaldo,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,86’,Marcus Rashford,Assist:Nemanja Matić,Manchester Utd
@@ -402,10 +402,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-05,Leeds United,Brentford,90+5’,Patrick Bamford,Assist:Luke Ayling,Leeds United
 2021-12-05,Leeds United,Brentford,54’,Shandon Baptiste,,Brentford
 2021-12-05,Leeds United,Brentford,61’,Sergi Canós,Assist:Bryan Mbeumo,Brentford
-2021-12-05,Manchester Utd,Crystal Palace,77’,Fred,Assist:Mason Greenwood,Manchester Utd
 2021-12-05,Tottenham,Norwich City,10’,Lucas Moura,Assist:Son Heung-min,Tottenham
 2021-12-05,Tottenham,Norwich City,67’,Davinson Sánchez,,Tottenham
 2021-12-05,Tottenham,Norwich City,77’,Son Heung-min,Assist:Ben Davies,Tottenham
+2021-12-05,Manchester Utd,Crystal Palace,77’,Fred,Assist:Mason Greenwood,Manchester Utd
 2021-12-05,Aston Villa,Leicester City,17’,Ezri Konsa,Assist:Emi Buendía,Aston Villa
 2021-12-05,Aston Villa,Leicester City,54’,Ezri Konsa,Assist:John McGinn,Aston Villa
 2021-12-05,Aston Villa,Leicester City,14’,Harvey Barnes,Assist:Patson Daka,Leicester City
+2021-12-06,Everton,Arsenal,79’,Richarlison,,Everton
+2021-12-06,Everton,Arsenal,90+2’,Demarai Gray,Assist:André Gomes,Everton
+2021-12-06,Everton,Arsenal,45+2’,Martin Ødegaard,Assist:Kieran Tierney,Arsenal
