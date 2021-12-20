@@ -222,12 +222,12 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-23,Chelsea,Norwich City,62’,Max Aarons,Own Goal,Chelsea
 2021-10-23,Chelsea,Norwich City,85’,Mason Mount,Penalty Kick,Chelsea
 2021-10-23,Chelsea,Norwich City,90+1’,Mason Mount,Assist:Ruben Loftus-Cheek,Chelsea
-2021-10-23,Leeds United,Wolves,90+4’,Rodrigo,Penalty Kick,Leeds United
-2021-10-23,Leeds United,Wolves,10’,Hwang Hee-chan,,Wolves
 2021-10-23,Southampton,Burnley,41’,Valentino Livramento,Assist:Nathan Redmond,Southampton
 2021-10-23,Southampton,Burnley,50’,Armando Broja,Assist:Ibrahima Diallo,Southampton
 2021-10-23,Southampton,Burnley,13’,Maxwel Cornet,Assist:Matthew Lowton,Burnley
 2021-10-23,Southampton,Burnley,57’,Maxwel Cornet,Assist:Ashley Westwood,Burnley
+2021-10-23,Leeds United,Wolves,90+4’,Rodrigo,Penalty Kick,Leeds United
+2021-10-23,Leeds United,Wolves,10’,Hwang Hee-chan,,Wolves
 2021-10-23,Everton,Watford,3’,Tom Davies,Assist:Demarai Gray,Everton
 2021-10-23,Everton,Watford,63’,Richarlison,Assist:Michael Keane,Everton
 2021-10-23,Everton,Watford,13’,Joshua King,Assist:Craig Cathcart,Watford
@@ -262,11 +262,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,81’,Jorginho,Penalty Kick,Chelsea
-2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
+2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,64’,Edinson Cavani,Assist:Cristiano Ronaldo,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,86’,Marcus Rashford,Assist:Nemanja Matić,Manchester Utd
@@ -456,3 +456,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-16,Liverpool,Newcastle Utd,25’,Mohamed Salah,,Liverpool
 2021-12-16,Liverpool,Newcastle Utd,87’,Trent Alexander-Arnold,Assist:Roberto Firmino,Liverpool
 2021-12-16,Liverpool,Newcastle Utd,7’,Jonjo Shelvey,,Newcastle Utd
+2021-12-18,Leeds United,Arsenal,75’,Raphael Dias Belloli,Penalty Kick,Leeds United
+2021-12-18,Leeds United,Arsenal,16’,Martinelli,Assist:Alexandre Lacazette,Arsenal
+2021-12-18,Leeds United,Arsenal,28’,Martinelli,Assist:Granit Xhaka,Arsenal
+2021-12-18,Leeds United,Arsenal,42’,Bukayo Saka,,Arsenal
+2021-12-18,Leeds United,Arsenal,84’,Emile Smith-Rowe,Assist:Martin Ødegaard,Arsenal
