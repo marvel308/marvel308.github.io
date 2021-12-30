@@ -88,9 +88,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-11,Crystal Palace,Tottenham,84’,Odsonne Édouard,Assist:Wilfried Zaha,Crystal Palace
 2021-09-11,Crystal Palace,Tottenham,90+2’,Odsonne Édouard,Assist:Conor Gallagher,Crystal Palace
 2021-09-11,Arsenal,Norwich City,66’,Pierre-Emerick Aubameyang,Assist:Nicolas Pépé,Arsenal
+2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Watford,Wolves,74’,Francisco Sierralta,Own Goal,Wolves
 2021-09-11,Watford,Wolves,83’,Hwang Hee-chan,,Wolves
-2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Leicester City,Manchester City,62’,Bernardo Silva,,Manchester City
 2021-09-11,Manchester Utd,Newcastle Utd,45+2’,Cristiano Ronaldo,,Manchester Utd
 2021-09-11,Manchester Utd,Newcastle Utd,62’,Cristiano Ronaldo,Assist:Luke Shaw,Manchester Utd
@@ -262,11 +262,11 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,81’,Jorginho,Penalty Kick,Chelsea
+2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
-2021-10-30,Watford,Southampton,20’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,64’,Edinson Cavani,Assist:Cristiano Ronaldo,Manchester Utd
 2021-10-30,Tottenham,Manchester Utd,86’,Marcus Rashford,Assist:Nemanja Matić,Manchester Utd
@@ -312,21 +312,21 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-20,Burnley,Crystal Palace,42’,Marc Guéhi,,Crystal Palace
 2021-11-20,Aston Villa,Brighton,84’,Ollie Watkins,Assist:Ashley Young,Aston Villa
 2021-11-20,Aston Villa,Brighton,89’,Tyrone Mings,,Aston Villa
+2021-11-20,Wolves,West Ham,58’,Raúl Jiménez,Assist:Daniel Podence,Wolves
 2021-11-20,Norwich City,Southampton,7’,Teemu Pukki,Assist:Max Aarons,Norwich City
 2021-11-20,Norwich City,Southampton,79’,Grant Hanley,Assist:Billy Gilmour,Norwich City
 2021-11-20,Norwich City,Southampton,4’,Che Adams,Assist:Adam Armstrong,Southampton
-2021-11-20,Wolves,West Ham,58’,Raúl Jiménez,Assist:Daniel Podence,Wolves
-2021-11-20,Watford,Manchester Utd,28’,Joshua King,Assist:Emmanuel Dennis,Watford
-2021-11-20,Watford,Manchester Utd,44’,Ismaila Sarr,Assist:Kiko Femenía,Watford
-2021-11-20,Watford,Manchester Utd,90+2’,João Pedro,Assist:Emmanuel Dennis,Watford
-2021-11-20,Watford,Manchester Utd,90+6’,Emmanuel Dennis,Assist:Ben Foster,Watford
-2021-11-20,Watford,Manchester Utd,50’,Donny van de Beek,Assist:Cristiano Ronaldo,Manchester Utd
 2021-11-20,Newcastle Utd,Brentford,10’,Jamaal Lascelles,Assist:Matt Ritchie,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,39’,Joelinton,,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,75’,Allan Saint-Maximin,Assist:Ryan Fraser,Newcastle Utd
 2021-11-20,Newcastle Utd,Brentford,11’,Ivan Toney,Assist:Sergi Canós,Brentford
 2021-11-20,Newcastle Utd,Brentford,31’,Rico Henry,Assist:Sergi Canós,Brentford
 2021-11-20,Newcastle Utd,Brentford,61’,Jamaal Lascelles,Own Goal,Brentford
+2021-11-20,Watford,Manchester Utd,28’,Joshua King,Assist:Emmanuel Dennis,Watford
+2021-11-20,Watford,Manchester Utd,44’,Ismaila Sarr,Assist:Kiko Femenía,Watford
+2021-11-20,Watford,Manchester Utd,90+2’,João Pedro,Assist:Emmanuel Dennis,Watford
+2021-11-20,Watford,Manchester Utd,90+6’,Emmanuel Dennis,Assist:Ben Foster,Watford
+2021-11-20,Watford,Manchester Utd,50’,Donny van de Beek,Assist:Cristiano Ronaldo,Manchester Utd
 2021-11-20,Liverpool,Arsenal,39’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-11-20,Liverpool,Arsenal,52’,Diogo Jota,,Liverpool
 2021-11-20,Liverpool,Arsenal,73’,Mohamed Salah,Assist:Sadio Mané,Liverpool
@@ -499,3 +499,14 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-26,Brighton,Brentford,42’,Neal Maupay,Assist:Jakub Moder,Brighton
 2021-12-27,Newcastle Utd,Manchester Utd,7’,Allan Saint-Maximin,Assist:Sean Longstaff,Newcastle Utd
 2021-12-27,Newcastle Utd,Manchester Utd,71’,Edinson Cavani,,Manchester Utd
+2021-12-28,Southampton,Tottenham,25’,James Ward-Prowse,,Southampton
+2021-12-28,Southampton,Tottenham,41’,Harry Kane,Penalty Kick,Tottenham
+2021-12-28,Watford,West Ham,4’,Emmanuel Dennis,Assist:Joshua King,Watford
+2021-12-28,Watford,West Ham,27’,Tomáš Souček,Assist:Jarrod Bowen,West Ham
+2021-12-28,Watford,West Ham,29’,Saïd Benrahma,Assist:Michail Antonio,West Ham
+2021-12-28,Watford,West Ham,58’,Mark Noble,Penalty Kick,West Ham
+2021-12-28,Watford,West Ham,90+2’,Nikola Vlašić,Assist:Jarrod Bowen,West Ham
+2021-12-28,Crystal Palace,Norwich City,8’,Odsonne Édouard,Penalty Kick,Crystal Palace
+2021-12-28,Crystal Palace,Norwich City,38’,Jean-Philippe Mateta,Assist:Odsonne Édouard,Crystal Palace
+2021-12-28,Crystal Palace,Norwich City,42’,Jeffrey Schlupp,Assist:Odsonne Édouard,Crystal Palace
+2021-12-28,Leicester City,Liverpool,59’,Ademola Lookman,Assist:Kiernan Dewsbury Hall,Leicester City
