@@ -127,8 +127,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
 2021-09-25,Watford,Newcastle Utd,23’,Sean Longstaff,Assist:Allan Saint-Maximin,Newcastle Utd
 2021-09-25,Watford,Newcastle Utd,72’,Ismaila Sarr,Assist:Joshua King,Watford
-2021-09-26,Arsenal,Tottenham,12’,Emile Smith-Rowe,Assist:Bukayo Saka,Arsenal
-2021-09-26,Arsenal,Tottenham,27’,Pierre-Emerick Aubameyang,Assist:Emile Smith-Rowe,Arsenal
+2021-09-26,Arsenal,Tottenham,12’,Emile Smith Rowe,Assist:Bukayo Saka,Arsenal
+2021-09-26,Arsenal,Tottenham,27’,Pierre-Emerick Aubameyang,Assist:Emile Smith Rowe,Arsenal
 2021-09-26,Southampton,Wolves,61’,Raúl Jiménez,Assist:José Sá,Wolves
 2021-09-27,Crystal Palace,Brighton,45+2’,Wilfried Zaha,Penalty Kick,Crystal Palace
 2021-09-27,Crystal Palace,Brighton,90+5’,Neal Maupay,Assist:Joël Veltman,Brighton
@@ -178,7 +178,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-18,Arsenal,Crystal Palace,50’,Christian Benteke,Assist:Jordan Ayew,Crystal Palace
 2021-10-18,Arsenal,Crystal Palace,73’,Odsonne Édouard,Assist:Michael Olise,Crystal Palace
 2021-10-18,Arsenal,Crystal Palace,90+5’,Alexandre Lacazette,,Arsenal
-2021-10-22,Arsenal,Aston Villa,23’,Thomas Partey,Assist:Emile Smith-Rowe,Arsenal
+2021-10-22,Arsenal,Aston Villa,23’,Thomas Partey,Assist:Emile Smith Rowe,Arsenal
 2021-10-22,Arsenal,Aston Villa,45+6’,Pierre-Emerick Aubameyang,,Arsenal
 2021-10-23,Brighton,Manchester City,13’,İlkay Gündoğan,Assist:Bernardo Silva,Manchester City
 2021-10-23,Brighton,Manchester City,28’,Phil Foden,Assist:Jack Grealish,Manchester City
@@ -206,7 +206,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-24,West Ham,Tottenham,72’,Michail Antonio,Assist:Aaron Cresswell,West Ham
 2021-10-30,Burnley,Brentford,32’,Matthew Lowton,Assist:Charlie Taylor,Burnley
 2021-10-30,Burnley,Brentford,36’,Maxwel Cornet,Assist:Dwight McNeil,Burnley
-2021-10-30,Leicester City,Arsenal,18’,Emile Smith-Rowe,,Arsenal
+2021-10-30,Leicester City,Arsenal,18’,Emile Smith Rowe,,Arsenal
 2021-10-30,Leicester City,Arsenal,5’,Gabriel Dos Santos,Assist:Bukayo Saka,Arsenal
 2021-10-30,Liverpool,Brighton,24’,Sadio Mané,Assist:Alex Oxlade-Chamberlain,Liverpool
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
@@ -240,7 +240,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-06,Crystal Palace,Wolves,78’,Conor Gallagher,,Crystal Palace
 2021-11-06,Manchester Utd,Manchester City,45’,Bernardo Silva,Assist:João Cancelo,Manchester City
 2021-11-06,Manchester Utd,Manchester City,7’,Eric Bailly,Own Goal,Manchester City
-2021-11-07,Arsenal,Watford,56’,Emile Smith-Rowe,,Arsenal
+2021-11-07,Arsenal,Watford,56’,Emile Smith Rowe,,Arsenal
 2021-11-07,Leeds United,Leicester City,26’,Raphael Dias Belloli,,Leeds United
 2021-11-07,Leeds United,Leicester City,28’,Harvey Barnes,Assist:Boubakary Soumaré,Leicester City
 2021-11-07,West Ham,Liverpool,41’,Trent Alexander-Arnold,Assist:Mohamed Salah,Liverpool
@@ -311,7 +311,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-01,Watford,Chelsea,72’,Hakim Ziyech,Assist:Mason Mount,Chelsea
 2021-12-01,West Ham,Brighton,5’,Tomáš Souček,Assist:Pablo Fornals,West Ham
 2021-12-01,West Ham,Brighton,89’,Neal Maupay,Assist:Tariq Lamptey,Brighton
-2021-12-02,Manchester Utd,Arsenal,13’,Emile Smith-Rowe,Assist:Mohamed Elneny,Arsenal
+2021-12-02,Manchester Utd,Arsenal,13’,Emile Smith Rowe,Assist:Mohamed Elneny,Arsenal
 2021-12-02,Manchester Utd,Arsenal,44’,Bruno Fernandes,Assist:Fred,Manchester Utd
 2021-12-02,Manchester Utd,Arsenal,52’,Cristiano Ronaldo,Assist:Marcus Rashford,Manchester Utd
 2021-12-02,Manchester Utd,Arsenal,54’,Martin Ødegaard,Assist:Martinelli,Arsenal
@@ -365,7 +365,7 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-12-14,Norwich City,Aston Villa,34’,Jacob Ramsey,Assist:Ollie Watkins,Aston Villa
 2021-12-14,Norwich City,Aston Villa,87’,Ollie Watkins,Assist:Carney Chukwuemeka,Aston Villa
 2021-12-15,Arsenal,West Ham,48’,Martinelli,Assist:Alexandre Lacazette,Arsenal
-2021-12-15,Arsenal,West Ham,87’,Emile Smith-Rowe,Assist:Bukayo Saka,Arsenal
+2021-12-15,Arsenal,West Ham,87’,Emile Smith Rowe,Assist:Bukayo Saka,Arsenal
 2021-12-15,Brighton,Wolves,45+1’,Romain Saïss,Assist:Rúben Neves,Wolves
 2021-12-15,Crystal Palace,Southampton,2’,Wilfried Zaha,Assist:Odsonne Édouard,Crystal Palace
 2021-12-15,Crystal Palace,Southampton,32’,James Ward-Prowse,,Southampton
