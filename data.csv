@@ -88,9 +88,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-11,Crystal Palace,Tottenham,84’,Odsonne Édouard,Assist:Wilfried Zaha,Crystal Palace
 2021-09-11,Crystal Palace,Tottenham,90+2’,Odsonne Édouard,Assist:Conor Gallagher,Crystal Palace
 2021-09-11,Arsenal,Norwich City,66’,Pierre-Emerick Aubameyang,Assist:Nicolas Pépé,Arsenal
+2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Watford,Wolves,74’,Francisco Sierralta,Own Goal,Wolves
 2021-09-11,Watford,Wolves,83’,Hwang Hee-chan,,Wolves
-2021-09-11,Brentford,Brighton,90’,Leandro Trossard,Assist:Alexis Mac Allister,Brighton
 2021-09-11,Leicester City,Manchester City,62’,Bernardo Silva,,Manchester City
 2021-09-11,Manchester Utd,Newcastle Utd,45+2’,Cristiano Ronaldo,,Manchester Utd
 2021-09-11,Manchester Utd,Newcastle Utd,62’,Cristiano Ronaldo,Assist:Luke Shaw,Manchester Utd
@@ -131,8 +131,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,Tottenham,Chelsea,90+2’,Antonio Rüdiger,Assist:Timo Werner,Chelsea
-2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
 2021-09-25,Chelsea,Manchester City,53’,Gabriel Jesus,Assist:João Cancelo,Manchester City
+2021-09-25,Manchester Utd,Aston Villa,88’,Kortney Hause,Assist:Douglas Luiz,Aston Villa
 2021-09-25,Leeds United,West Ham,19’,Raphael Dias Belloli,Assist:Mateusz Klich,Leeds United
 2021-09-25,Leeds United,West Ham,67’,Junior Firpo,Own Goal,West Ham
 2021-09-25,Leeds United,West Ham,90’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -304,14 +304,14 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-20,Leicester City,Chelsea,14’,Antonio Rüdiger,Assist:Ben Chilwell,Chelsea
 2021-11-20,Leicester City,Chelsea,28’,N'Golo Kanté,Assist:Reece James,Chelsea
 2021-11-20,Leicester City,Chelsea,71’,Christian Pulisic,Assist:Hakim Ziyech,Chelsea
+2021-11-20,Aston Villa,Brighton,84’,Ollie Watkins,Assist:Ashley Young,Aston Villa
+2021-11-20,Aston Villa,Brighton,89’,Tyrone Mings,,Aston Villa
 2021-11-20,Burnley,Crystal Palace,19’,Ben Mee,Assist:Ashley Westwood,Burnley
 2021-11-20,Burnley,Crystal Palace,27’,Chris Wood,Assist:James Tarkowski,Burnley
 2021-11-20,Burnley,Crystal Palace,49’,Maxwel Cornet,Assist:James Tarkowski,Burnley
 2021-11-20,Burnley,Crystal Palace,8’,Christian Benteke,Assist:Joachim Andersen,Crystal Palace
 2021-11-20,Burnley,Crystal Palace,36’,Christian Benteke,Assist:Conor Gallagher,Crystal Palace
 2021-11-20,Burnley,Crystal Palace,42’,Marc Guéhi,,Crystal Palace
-2021-11-20,Aston Villa,Brighton,84’,Ollie Watkins,Assist:Ashley Young,Aston Villa
-2021-11-20,Aston Villa,Brighton,89’,Tyrone Mings,,Aston Villa
 2021-11-20,Norwich City,Southampton,7’,Teemu Pukki,Assist:Max Aarons,Norwich City
 2021-11-20,Norwich City,Southampton,79’,Grant Hanley,Assist:Billy Gilmour,Norwich City
 2021-11-20,Norwich City,Southampton,4’,Che Adams,Assist:Adam Armstrong,Southampton
@@ -592,8 +592,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-01-22,Brentford,Wolves,71’,Ivan Toney,Assist:Bryan Mbeumo,Brentford
 2022-01-22,Brentford,Wolves,48’,João Moutinho,Assist:Nélson Semedo,Wolves
 2022-01-22,Brentford,Wolves,78’,Rúben Neves,Assist:João Moutinho,Wolves
-2022-01-22,Manchester Utd,West Ham,90+3’,Marcus Rashford,Assist:Edinson Cavani,Manchester Utd
 2022-01-22,Leeds United,Newcastle Utd,75’,Jonjo Shelvey,,Newcastle Utd
+2022-01-22,Manchester Utd,West Ham,90+3’,Marcus Rashford,Assist:Edinson Cavani,Manchester Utd
 2022-01-22,Southampton,Manchester City,7’,Kyle Walker-Peters,Assist:Nathan Redmond,Southampton
 2022-01-22,Southampton,Manchester City,65’,Aymeric Laporte,Assist:Kevin De Bruyne,Manchester City
 2022-01-23,Crystal Palace,Liverpool,55’,Odsonne Édouard,Assist:Jean-Philippe Mateta,Crystal Palace
@@ -611,13 +611,13 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-02-08,Newcastle Utd,Everton,36’,Jamaal Lascelles,Own Goal,Everton
 2022-02-08,Burnley,Manchester Utd,47’,Jay Rodriguez,Assist:Wout Weghorst,Burnley
 2022-02-08,Burnley,Manchester Utd,18’,Paul Pogba,Assist:Luke Shaw,Manchester Utd
-2022-02-09,Norwich City,Crystal Palace,1’,Teemu Pukki,Assist:Adam Idah,Norwich City
-2022-02-09,Norwich City,Crystal Palace,60’,Wilfried Zaha,Assist:Michael Olise,Crystal Palace
 2022-02-09,Tottenham,Southampton,18’,Jan Bednarek,Own Goal,Tottenham
 2022-02-09,Tottenham,Southampton,70’,Son Heung-min,Assist:Lucas Moura,Tottenham
 2022-02-09,Tottenham,Southampton,23’,Armando Broja,Assist:Romain Perraud,Southampton
 2022-02-09,Tottenham,Southampton,79’,Mohamed Elyounoussi,Assist:James Ward-Prowse,Southampton
 2022-02-09,Tottenham,Southampton,82’,Che Adams,Assist:James Ward-Prowse,Southampton
+2022-02-09,Norwich City,Crystal Palace,1’,Teemu Pukki,Assist:Adam Idah,Norwich City
+2022-02-09,Norwich City,Crystal Palace,60’,Wilfried Zaha,Assist:Michael Olise,Crystal Palace
 2022-02-09,Manchester City,Brentford,40’,Riyad Mahrez,Penalty Kick,Manchester City
 2022-02-09,Manchester City,Brentford,69’,Kevin De Bruyne,,Manchester City
 2022-02-09,Aston Villa,Leeds United,30’,Philippe Coutinho,Assist:Matty Cash,Aston Villa
@@ -652,9 +652,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-02-15,Manchester Utd,Brighton,90+7’,Bruno Fernandes,Assist:Paul Pogba,Manchester Utd
 2022-02-19,West Ham,Newcastle Utd,32’,Craig Dawson,Assist:Aaron Cresswell,West Ham
 2022-02-19,West Ham,Newcastle Utd,45+1’,Joe Willock,,Newcastle Utd
-2022-02-19,Aston Villa,Watford,78’,Emmanuel Dennis,Assist:Ismaila Sarr,Watford
 2022-02-19,Southampton,Everton,52’,Stuart Armstrong,Assist:Che Adams,Southampton
 2022-02-19,Southampton,Everton,84’,Shane Long,Assist:Valentino Livramento,Southampton
+2022-02-19,Aston Villa,Watford,78’,Emmanuel Dennis,Assist:Ismaila Sarr,Watford
 2022-02-19,Arsenal,Brentford,48’,Emile Smith Rowe,Assist:Alexandre Lacazette,Arsenal
 2022-02-19,Arsenal,Brentford,79’,Bukayo Saka,Assist:Thomas Partey,Arsenal
 2022-02-19,Arsenal,Brentford,90+3’,Christian Nørgaard,Assist:Kristoffer Ajer,Brentford
@@ -703,10 +703,10 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-02-26,Leeds United,Tottenham,85’,Son Heung-min,Assist:Harry Kane,Tottenham
 2022-02-26,Brighton,Aston Villa,17’,Matty Cash,,Aston Villa
 2022-02-26,Brighton,Aston Villa,68’,Ollie Watkins,Assist:Tyrone Mings,Aston Villa
-2022-02-26,Brentford,Newcastle Utd,33’,Joelinton,Assist:Ryan Fraser,Newcastle Utd
-2022-02-26,Brentford,Newcastle Utd,44’,Joe Willock,Assist:Fabian Schär,Newcastle Utd
 2022-02-26,Crystal Palace,Burnley,9’,Jeffrey Schlupp,Assist:Michael Olise,Crystal Palace
 2022-02-26,Crystal Palace,Burnley,46’,Luka Milivojević,Own Goal,Burnley
+2022-02-26,Brentford,Newcastle Utd,33’,Joelinton,Assist:Ryan Fraser,Newcastle Utd
+2022-02-26,Brentford,Newcastle Utd,44’,Joe Willock,Assist:Fabian Schär,Newcastle Utd
 2022-02-26,Everton,Manchester City,82’,Phil Foden,,Manchester City
 2022-02-27,West Ham,Wolves,59’,Tomáš Souček,Assist:Michail Antonio,West Ham
 2022-03-01,Burnley,Leicester City,82’,James Maddison,Assist:Jamie Vardy,Leicester City
@@ -716,9 +716,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-03-05,Burnley,Chelsea,52’,Kai Havertz,Assist:Christian Pulisic,Chelsea
 2022-03-05,Burnley,Chelsea,55’,Kai Havertz,Assist:Reece James,Chelsea
 2022-03-05,Burnley,Chelsea,69’,Christian Pulisic,,Chelsea
-2022-03-05,Newcastle Utd,Brighton,12’,Ryan Fraser,,Newcastle Utd
-2022-03-05,Newcastle Utd,Brighton,14’,Fabian Schär,Assist:Ryan Fraser,Newcastle Utd
-2022-03-05,Newcastle Utd,Brighton,55’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2022-03-05,Wolves,Crystal Palace,19’,Jean-Philippe Mateta,,Crystal Palace
 2022-03-05,Wolves,Crystal Palace,34’,Wilfried Zaha,Penalty Kick,Crystal Palace
 2022-03-05,Norwich City,Brentford,90+2’,Teemu Pukki,Assist:Jon Rowe,Norwich City
@@ -729,6 +726,9 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-03-05,Aston Villa,Southampton,44’,Douglas Luiz,Assist:Philippe Coutinho,Aston Villa
 2022-03-05,Aston Villa,Southampton,52’,Philippe Coutinho,Assist:Danny Ings,Aston Villa
 2022-03-05,Aston Villa,Southampton,54’,Danny Ings,Assist:Matty Cash,Aston Villa
+2022-03-05,Newcastle Utd,Brighton,12’,Ryan Fraser,,Newcastle Utd
+2022-03-05,Newcastle Utd,Brighton,14’,Fabian Schär,Assist:Ryan Fraser,Newcastle Utd
+2022-03-05,Newcastle Utd,Brighton,55’,Lewis Dunk,Assist:Pascal Groß,Brighton
 2022-03-05,Liverpool,West Ham,27’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2022-03-06,Watford,Arsenal,11’,Cucho,Assist:Kiko Femenía,Watford
 2022-03-06,Watford,Arsenal,87’,Moussa Sissoko,Assist:Cucho,Watford
