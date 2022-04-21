@@ -38,11 +38,8 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-08-21,Liverpool,Burnley,69’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-08-21,Manchester City,Norwich City,22’,Jack Grealish,Assist:Gabriel Jesus,Manchester City
 2021-08-21,Manchester City,Norwich City,64’,Aymeric Laporte,,Manchester City
-2021-08-22,Arsenal,Chelsea,15’,Romelu Lukaku,Assist:Reece James,Chelsea
-2021-08-22,Arsenal,Chelsea,35’,Reece James,Assist:Mason Mount,Chelsea
 2021-08-22,Southampton,Manchester Utd,30’,Fred,Own Goal,Southampton
 2021-08-22,Southampton,Manchester Utd,55’,Mason Greenwood,Assist:Paul Pogba,Manchester Utd
-2021-08-22,Wolves,Tottenham,9’,Dele Alli,Penalty Kick,Tottenham
 2021-08-23,West Ham,Leicester City,26’,Pablo Fornals,Assist:Saïd Benrahma,West Ham
 2021-08-23,West Ham,Leicester City,56’,Saïd Benrahma,Assist:Michail Antonio,West Ham
 2021-08-23,West Ham,Leicester City,80’,Michail Antonio,Assist:Declan Rice,West Ham
@@ -101,8 +98,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-09-18,Norwich City,Watford,80’,Ismaila Sarr,,Watford
 2021-09-18,Wolves,Brentford,28’,Ivan Toney,Penalty Kick,Brentford
 2021-09-18,Wolves,Brentford,34’,Bryan Mbeumo,Assist:Ivan Toney,Brentford
-2021-09-19,Brighton,Leicester City,35’,Neal Maupay,Penalty Kick,Brighton
-2021-09-19,Brighton,Leicester City,50’,Danny Welbeck,Assist:Leandro Trossard,Brighton
 2021-09-19,Tottenham,Chelsea,49’,Thiago Silva,Assist:Marcos Alonso,Chelsea
 2021-09-19,Tottenham,Chelsea,57’,N'Golo Kanté,Assist:Mateo Kovačić,Chelsea
 2021-09-19,West Ham,Manchester Utd,30’,Saïd Benrahma,Assist:Jarrod Bowen,West Ham
@@ -145,10 +140,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-03,Crystal Palace,Leicester City,31’,Kelechi Iheanacho,,Leicester City
 2021-10-03,Crystal Palace,Leicester City,37’,Jamie Vardy,Assist:Harvey Barnes,Leicester City
 2021-10-03,Crystal Palace,Leicester City,72’,Jeffrey Schlupp,,Crystal Palace
-2021-10-03,Liverpool,Manchester City,59’,Sadio Mané,Assist:Mohamed Salah,Liverpool
-2021-10-03,Liverpool,Manchester City,69’,Phil Foden,Assist:Gabriel Jesus,Manchester City
-2021-10-03,Liverpool,Manchester City,76’,Mohamed Salah,Assist:Curtis Jones,Liverpool
-2021-10-03,Liverpool,Manchester City,81’,Kevin De Bruyne,,Manchester City
 2021-10-03,Tottenham,Aston Villa,27’,Pierre Højbjerg,Assist:Son Heung-min,Tottenham
 2021-10-03,Tottenham,Aston Villa,67’,Ollie Watkins,Assist:Matt Targett,Aston Villa
 2021-10-03,Tottenham,Aston Villa,71’,Matt Targett,Own Goal,Tottenham
@@ -212,8 +203,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-10-30,Liverpool,Brighton,41’,Enock Mwepu,Assist:Solly March,Brighton
 2021-10-30,Liverpool,Brighton,4’,Jordan Henderson,Assist:Mohamed Salah,Liverpool
 2021-10-30,Liverpool,Brighton,65’,Leandro Trossard,Assist:Adam Lallana,Brighton
-2021-10-30,Manchester City,Crystal Palace,6’,Wilfried Zaha,Assist:Conor Gallagher,Crystal Palace
-2021-10-30,Manchester City,Crystal Palace,88’,Conor Gallagher,Assist:Michael Olise,Crystal Palace
 2021-10-30,Newcastle Utd,Chelsea,65’,Reece James,,Chelsea
 2021-10-30,Newcastle Utd,Chelsea,77’,Reece James,,Chelsea
 2021-10-30,Tottenham,Manchester Utd,39’,Cristiano Ronaldo,Assist:Bruno Fernandes,Manchester Utd
@@ -258,12 +247,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2021-11-20,Leicester City,Chelsea,28’,N'Golo Kanté,Assist:Reece James,Chelsea
 2021-11-20,Liverpool,Arsenal,39’,Sadio Mané,Assist:Trent Alexander-Arnold,Liverpool
 2021-11-20,Liverpool,Arsenal,52’,Diogo Jota,,Liverpool
-2021-11-20,Newcastle Utd,Brentford,10’,Jamaal Lascelles,Assist:Matt Ritchie,Newcastle Utd
-2021-11-20,Newcastle Utd,Brentford,11’,Ivan Toney,Assist:Sergi Canós,Brentford
-2021-11-20,Newcastle Utd,Brentford,31’,Rico Henry,Assist:Sergi Canós,Brentford
-2021-11-20,Newcastle Utd,Brentford,39’,Joelinton,,Newcastle Utd
-2021-11-20,Newcastle Utd,Brentford,61’,Jamaal Lascelles,Own Goal,Brentford
-2021-11-20,Newcastle Utd,Brentford,75’,Allan Saint-Maximin,Assist:Ryan Fraser,Newcastle Utd
 2021-11-20,Norwich City,Southampton,4’,Che Adams,Assist:Adam Armstrong,Southampton
 2021-11-20,Norwich City,Southampton,79’,Grant Hanley,Assist:Billy Gilmour,Norwich City
 2021-11-20,Norwich City,Southampton,7’,Teemu Pukki,Assist:Max Aarons,Norwich City
@@ -658,8 +641,6 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-04-02,Chelsea,Brentford,50’,Vitaly Janelt,Assist:Bryan Mbeumo,Brentford
 2022-04-02,Chelsea,Brentford,54’,Christian Eriksen,Assist:Bryan Mbeumo,Brentford
 2022-04-02,Chelsea,Brentford,60’,Vitaly Janelt,Assist:Ivan Toney,Brentford
-2022-04-02,Leeds United,Southampton,29’,Jack Harrison,,Leeds United
-2022-04-02,Leeds United,Southampton,49’,James Ward-Prowse,,Southampton
 2022-04-02,Liverpool,Watford,22’,Diogo Jota,Assist:Joe Gomez,Liverpool
 2022-04-02,Liverpool,Watford,89’,Fabinho,Penalty Kick,Liverpool
 2022-04-02,Manchester Utd,Leicester City,63’,Kelechi Iheanacho,Assist:James Maddison,Leicester City
@@ -717,3 +698,14 @@ Date,Home,Away,Minute Scored,Goal Scorer,Fact,Team
 2022-04-17,West Ham,Burnley,74’,Tomáš Souček,Assist:Manuel Lanzini,West Ham
 2022-04-19,Liverpool,Manchester Utd,22’,Mohamed Salah,Assist:Sadio Mané,Liverpool
 2022-04-19,Liverpool,Manchester Utd,5’,Luis Díaz,Assist:Mohamed Salah,Liverpool
+2022-04-20,Chelsea,Arsenal,13’,Eddie Nketiah,,Arsenal
+2022-04-20,Chelsea,Arsenal,17’,Timo Werner,,Chelsea
+2022-04-20,Chelsea,Arsenal,27’,Emile Smith Rowe,Assist:Martin Ødegaard,Arsenal
+2022-04-20,Chelsea,Arsenal,32’,César Azpilicueta,Assist:Mason Mount,Chelsea
+2022-04-20,Chelsea,Arsenal,57’,Eddie Nketiah,,Arsenal
+2022-04-20,Chelsea,Arsenal,90+2’,Bukayo Saka,Penalty Kick,Arsenal
+2022-04-20,Everton,Leicester City,5’,Harvey Barnes,,Leicester City
+2022-04-20,Everton,Leicester City,90+2’,Richarlison,Assist:Salomón Rondón,Everton
+2022-04-20,Manchester City,Brighton,53’,Riyad Mahrez,,Manchester City
+2022-04-20,Manchester City,Brighton,65’,Phil Foden,Assist:Riyad Mahrez,Manchester City
+2022-04-20,Newcastle Utd,Crystal Palace,32’,Miguel Almirón,Assist:Bruno Guimarães,Newcastle Utd
